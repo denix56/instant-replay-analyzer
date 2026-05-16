@@ -1,0 +1,77 @@
+[build-system]
+requires = ["setuptools>=77", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "instant-replay-analyzer-backend"
+version = "0.1.0"
+description = "Local-first semantic gameplay clip search backend."
+license = "Apache-2.0"
+requires-python = ">=3.13,<3.14"
+dependencies = [
+  "fastapi>=0.115,<1.0",
+  "uvicorn[standard]>=0.34,<1.0",
+  "pydantic>=2.10,<3.0",
+  "pydantic-settings>=2.7,<3.0",
+  "qdrant-client>=1.14,<2.0",
+  "numpy>=2.2,<3.0",
+  "opencv-python-headless>=4.10,<5.0",
+  "av>=16.0,<18.0",
+  "pillow>=11.0,<12.0",
+  "python-multipart>=0.0.20,<1.0",
+  "orjson>=3.10,<4.0",
+  "httpx>=0.28,<1.0",
+  "selenium>=4.27,<5.0",
+  "tenacity>=9.0,<10.0",
+  "watchfiles>=1.0,<2.0",
+  "huggingface-hub>=1.0,<2.0",
+  "librosa>=0.11,<1.0",
+  "accelerate>=1.10,<2.0",
+  "transformers @ git+https://github.com/huggingface/transformers.git@main",
+  "bitsandbytes==0.49.2",
+  "qwen-vl-utils>=0.0.14,<1.0",
+  "safetensors>=0.5,<1.0",
+  "sentencepiece>=0.2,<1.0",
+  "protobuf>=5.0,<7.0",
+  "torch==2.12.0",
+  "torchaudio>=2.11,<2.12",
+  "torchvision>=0.27,<0.28",
+  "imageio-ffmpeg>=0.5,<1.0",
+  "easyocr>=1.7,<2.0",
+]
+
+[project.optional-dependencies]
+cuda = [
+  "flash-linear-attention>=0.5.0,<1.0; platform_system == 'Linux' and platform_machine == 'x86_64'",
+  "causal-conv1d>=1.6.2.post1,<2.0; platform_system == 'Linux' and platform_machine == 'x86_64'",
+]
+cuda-fast-attn = [
+  "flash-linear-attention>=0.5.0,<1.0; platform_system == 'Linux' and platform_machine == 'x86_64'",
+  "causal-conv1d>=1.6.2.post1,<2.0; platform_system == 'Linux' and platform_machine == 'x86_64'",
+]
+rocm = []
+test = [
+  "pytest>=8.3,<9.0",
+  "pytest-asyncio>=0.25,<1.0",
+]
+dev = [
+  "pytest>=8.3,<9.0",
+  "pytest-asyncio>=0.25,<1.0",
+  "ruff>=0.9,<1.0",
+  "mypy>=1.14,<2.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["app*"]
+
+[tool.ruff]
+target-version = "py313"
+line-length = 100
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+markers = [
+  "full_pipeline: real native media/model integration tests; opt in with RUN_FULL_PIPELINE=1",
+]

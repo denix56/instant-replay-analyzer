@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.playwright-mcp/
+.pytest_cache/
+__pycache__/
+*.pyc
+.venv/
+backend/data/
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
+clips/
+native-ui/node_modules/
+native-ui/dist/
+native-ui/src-tauri/target/

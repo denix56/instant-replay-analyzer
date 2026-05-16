@@ -1,0 +1,3627 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-14T22:50:38Z",
+  "source": "https://huntshowdown.wiki.gg/wiki/Category:Weapons via MediaWiki API",
+  "license": "Creative Commons Attribution-ShareAlike 4.0 License",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "skins": [
+    {
+      "skin": "A Real Gem",
+      "weapon": "New Army Swift",
+      "display_name": "New Army Swift (A Real Gem skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/New_Army/Swift"
+    },
+    {
+      "skin": "Agony Eternal",
+      "weapon": "Martini-Henry Ironside",
+      "display_name": "Martini-Henry Ironside (Agony Eternal skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Martini-Henry/Ironside"
+    },
+    {
+      "skin": "Alison",
+      "weapon": "Rival 78",
+      "display_name": "Rival 78 (Alison skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Rival_78"
+    },
+    {
+      "skin": "Alley Cat",
+      "weapon": "Bornheim No. 3",
+      "display_name": "Bornheim No. 3 (Alley Cat skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bornheim_No._3"
+    },
+    {
+      "skin": "Altar Boy",
+      "weapon": "Lebel 1886",
+      "display_name": "Lebel 1886 (Altar Boy skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Lebel_1886"
+    },
+    {
+      "skin": "Ambush",
+      "weapon": "Dolch 96",
+      "display_name": "Dolch 96 (Ambush skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Dolch_96"
+    },
+    {
+      "skin": "Ancestor's Wrath",
+      "weapon": "Katana",
+      "display_name": "Katana (Ancestor's Wrath skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Katana"
+    },
+    {
+      "skin": "Antebellum Wit",
+      "weapon": "Romero 77 Shorty",
+      "display_name": "Romero 77 Shorty (Antebellum Wit skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Shorty"
+    },
+    {
+      "skin": "Antosha",
+      "weapon": "Conversion Chain Pistol",
+      "display_name": "Conversion Chain Pistol (Antosha skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Conversion/Chain_Pistol"
+    },
+    {
+      "skin": "Archangel",
+      "weapon": "Springfield 1866",
+      "display_name": "Springfield 1866 (Archangel skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Springfield_1866"
+    },
+    {
+      "skin": "Archangel",
+      "weapon": "Springfield 1866 Bayonet",
+      "display_name": "Springfield 1866 Bayonet (Archangel skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Springfield_1866/Bayonet"
+    },
+    {
+      "skin": "Archangel",
+      "weapon": "Springfield 1866 Marksman",
+      "display_name": "Springfield 1866 Marksman (Archangel skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Springfield_1866/Marksman"
+    },
+    {
+      "skin": "Archangel: Bayonet",
+      "weapon": "Springfield 1866 Bayonet",
+      "display_name": "Springfield 1866 Bayonet (Archangel: Bayonet skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Springfield_1866/Bayonet"
+    },
+    {
+      "skin": "Archangel: Marksman",
+      "weapon": "Springfield 1866 Marksman",
+      "display_name": "Springfield 1866 Marksman (Archangel: Marksman skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Springfield_1866/Marksman"
+    },
+    {
+      "skin": "Argent Widow",
+      "weapon": "Conversion",
+      "display_name": "Conversion (Argent Widow skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Conversion"
+    },
+    {
+      "skin": "Argent Widow",
+      "weapon": "Conversion Chain Pistol",
+      "display_name": "Conversion Chain Pistol (Argent Widow skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Conversion/Chain_Pistol"
+    },
+    {
+      "skin": "Argent Widow: Chain Pistol",
+      "weapon": "Conversion Chain Pistol",
+      "display_name": "Conversion Chain Pistol (Argent Widow: Chain Pistol skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Conversion/Chain_Pistol"
+    },
+    {
+      "skin": "Arlington Grave",
+      "weapon": "Machete",
+      "display_name": "Machete (Arlington Grave skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Machete"
+    },
+    {
+      "skin": "Ascent",
+      "weapon": "Romero 77 Shorty",
+      "display_name": "Romero 77 Shorty (Ascent skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Shorty"
+    },
+    {
+      "skin": "Ash",
+      "weapon": "Conversion",
+      "display_name": "Conversion (Ash skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Conversion"
+    },
+    {
+      "skin": "Augusta",
+      "weapon": "Frontier 73C",
+      "display_name": "Frontier 73C (Augusta skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Frontier_73C"
+    },
+    {
+      "skin": "Avarice",
+      "weapon": "Romero 77 Talon",
+      "display_name": "Romero 77 Talon (Avarice skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Talon"
+    },
+    {
+      "skin": "Backbone",
+      "weapon": "Vetterli 71 Bayonet",
+      "display_name": "Vetterli 71 Bayonet (Backbone skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Bayonet"
+    },
+    {
+      "skin": "Bad Blood",
+      "weapon": "Dolch 96",
+      "display_name": "Dolch 96 (Bad Blood skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Dolch_96"
+    },
+    {
+      "skin": "Bandit's Oath",
+      "weapon": "Mosin-Nagant",
+      "display_name": "Mosin-Nagant (Bandit's Oath skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant"
+    },
+    {
+      "skin": "Banner Shot",
+      "weapon": "Pax Trueshot",
+      "display_name": "Pax Trueshot (Banner Shot skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Pax/Trueshot"
+    },
+    {
+      "skin": "Baptismal Blood",
+      "weapon": "Mosin-Nagant Avtomat",
+      "display_name": "Mosin-Nagant Avtomat (Baptismal Blood skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant/Avtomat"
+    },
+    {
+      "skin": "Barbed Absolution",
+      "weapon": "Vetterli 71 Cyclone",
+      "display_name": "Vetterli 71 Cyclone (Barbed Absolution skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Cyclone"
+    },
+    {
+      "skin": "Batter's Eye",
+      "weapon": "Baseball Bat",
+      "display_name": "Baseball Bat (Batter's Eye skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Baseball_Bat"
+    },
+    {
+      "skin": "Bayou Phoenix",
+      "weapon": "Frontier 73C Marksman",
+      "display_name": "Frontier 73C Marksman (Bayou Phoenix skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Frontier_73C/Marksman"
+    },
+    {
+      "skin": "Bear's Leg",
+      "weapon": "Vandal 73C Bullseye",
+      "display_name": "Vandal 73C Bullseye (Bear's Leg skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vandal_73C/Bullseye"
+    },
+    {
+      "skin": "Bear's Tooth",
+      "weapon": "Mosin-Nagant",
+      "display_name": "Mosin-Nagant (Bear's Tooth skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant"
+    },
+    {
+      "skin": "Bedlam Lullaby",
+      "weapon": "Dolch 96 Precision",
+      "display_name": "Dolch 96 Precision (Bedlam Lullaby skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Dolch_96/Precision"
+    },
+    {
+      "skin": "Bingham Brash",
+      "weapon": "Martini-Henry Riposte",
+      "display_name": "Martini-Henry Riposte (Bingham Brash skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Martini-Henry/Riposte"
+    },
+    {
+      "skin": "Bird of Prey",
+      "weapon": "Terminus Shorty",
+      "display_name": "Terminus Shorty (Bird of Prey skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Terminus/Shorty"
+    },
+    {
+      "skin": "Birthright",
+      "weapon": "Bornheim No. 3",
+      "display_name": "Bornheim No. 3 (Birthright skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bornheim_No._3"
+    },
+    {
+      "skin": "Bison's Leg",
+      "weapon": "Centennial Shorty",
+      "display_name": "Centennial Shorty (Bison's Leg skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Shorty"
+    },
+    {
+      "skin": "Black Hand",
+      "weapon": "Rival 78",
+      "display_name": "Rival 78 (Black Hand skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Rival_78"
+    },
+    {
+      "skin": "Black Mamba",
+      "weapon": "Nitro Express",
+      "display_name": "Nitro Express (Black Mamba skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Nitro_Express"
+    },
+    {
+      "skin": "Black Silk",
+      "weapon": "Mosin-Nagant",
+      "display_name": "Mosin-Nagant (Black Silk skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant"
+    },
+    {
+      "skin": "Black Silk",
+      "weapon": "Mosin-Nagant Avtomat",
+      "display_name": "Mosin-Nagant Avtomat (Black Silk skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant/Avtomat"
+    },
+    {
+      "skin": "Black Silk",
+      "weapon": "Mosin-Nagant Bayonet",
+      "display_name": "Mosin-Nagant Bayonet (Black Silk skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant/Bayonet"
+    },
+    {
+      "skin": "Black Silk",
+      "weapon": "Mosin-Nagant Sniper",
+      "display_name": "Mosin-Nagant Sniper (Black Silk skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant/Sniper"
+    },
+    {
+      "skin": "Black Silk: Avtomat",
+      "weapon": "Mosin-Nagant Avtomat",
+      "display_name": "Mosin-Nagant Avtomat (Black Silk: Avtomat skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant/Avtomat"
+    },
+    {
+      "skin": "Black Silk: Bayonet",
+      "weapon": "Mosin-Nagant Bayonet",
+      "display_name": "Mosin-Nagant Bayonet (Black Silk: Bayonet skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant/Bayonet"
+    },
+    {
+      "skin": "Black Silk: Sniper",
+      "weapon": "Mosin-Nagant Sniper",
+      "display_name": "Mosin-Nagant Sniper (Black Silk: Sniper skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant/Sniper"
+    },
+    {
+      "skin": "Black Votive",
+      "weapon": "Sparks Pistol Silencer",
+      "display_name": "Sparks Pistol Silencer (Black Votive skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks/Pistol_Silencer"
+    },
+    {
+      "skin": "Black Widow",
+      "weapon": "Auto-5",
+      "display_name": "Auto-5 (Black Widow skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Auto-5"
+    },
+    {
+      "skin": "Black Wight",
+      "weapon": "Machete",
+      "display_name": "Machete (Black Wight skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Machete"
+    },
+    {
+      "skin": "Blasted Heath",
+      "weapon": "Romero 77 Talon",
+      "display_name": "Romero 77 Talon (Blasted Heath skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Talon"
+    },
+    {
+      "skin": "Blauer Saphir",
+      "weapon": "Katana",
+      "display_name": "Katana (Blauer Saphir skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Katana"
+    },
+    {
+      "skin": "Blind Justice",
+      "weapon": "Terminus",
+      "display_name": "Terminus (Blind Justice skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Terminus"
+    },
+    {
+      "skin": "Blind Justice",
+      "weapon": "Terminus Shorty",
+      "display_name": "Terminus Shorty (Blind Justice skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Terminus/Shorty"
+    },
+    {
+      "skin": "Blind Justice: Shorty",
+      "weapon": "Terminus Shorty",
+      "display_name": "Terminus Shorty (Blind Justice: Shorty skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Terminus/Shorty"
+    },
+    {
+      "skin": "Blister",
+      "weapon": "Springfield 1866 Bullseye",
+      "display_name": "Springfield 1866 Bullseye (Blister skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Springfield_1866/Bullseye"
+    },
+    {
+      "skin": "Blood Moon",
+      "weapon": "Auto-5",
+      "display_name": "Auto-5 (Blood Moon skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Auto-5"
+    },
+    {
+      "skin": "Blood Orchid",
+      "weapon": "Machete",
+      "display_name": "Machete (Blood Orchid skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Machete"
+    },
+    {
+      "skin": "Bloodshot",
+      "weapon": "Hand Crossbow",
+      "display_name": "Hand Crossbow (Bloodshot skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Hand_Crossbow"
+    },
+    {
+      "skin": "Blue Bourbon",
+      "weapon": "Officer Brawler",
+      "display_name": "Officer Brawler (Blue Bourbon skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Officer/Brawler"
+    },
+    {
+      "skin": "Bone Briar",
+      "weapon": "Specter 1882 Bayonet",
+      "display_name": "Specter 1882 Bayonet (Bone Briar skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Specter_1882/Bayonet"
+    },
+    {
+      "skin": "Bone Rattler",
+      "weapon": "New Army",
+      "display_name": "New Army (Bone Rattler skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/New_Army"
+    },
+    {
+      "skin": "Bone Shard",
+      "weapon": "Pax Claw",
+      "display_name": "Pax Claw (Bone Shard skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Pax/Claw"
+    },
+    {
+      "skin": "Bone Veve",
+      "weapon": "Mosin-Nagant",
+      "display_name": "Mosin-Nagant (Bone Veve skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant"
+    },
+    {
+      "skin": "Bonecutter",
+      "weapon": "Rival 78",
+      "display_name": "Rival 78 (Bonecutter skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Rival_78"
+    },
+    {
+      "skin": "Bountiful",
+      "weapon": "Berthier 1892",
+      "display_name": "Berthier 1892 (Bountiful skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Berthier_1892"
+    },
+    {
+      "skin": "Brass Flower",
+      "weapon": "LeMat",
+      "display_name": "LeMat (Brass Flower skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/LeMat"
+    },
+    {
+      "skin": "Brave Charge",
+      "weapon": "Scottfield Swift",
+      "display_name": "Scottfield Swift (Brave Charge skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield/Swift"
+    },
+    {
+      "skin": "Brother's Keeper",
+      "weapon": "Auto-5",
+      "display_name": "Auto-5 (Brother's Keeper skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Auto-5"
+    },
+    {
+      "skin": "Bunny",
+      "weapon": "Mosin-Nagant Sniper",
+      "display_name": "Mosin-Nagant Sniper (Bunny skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant/Sniper"
+    },
+    {
+      "skin": "Burial Hymn",
+      "weapon": "Centennial Shorty Silencer",
+      "display_name": "Centennial Shorty Silencer (Burial Hymn skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Shorty_Silencer"
+    },
+    {
+      "skin": "Burn Out",
+      "weapon": "Terminus Shorty",
+      "display_name": "Terminus Shorty (Burn Out skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Terminus/Shorty"
+    },
+    {
+      "skin": "Burnt Blood",
+      "weapon": "Pax",
+      "display_name": "Pax (Burnt Blood skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Pax"
+    },
+    {
+      "skin": "Burnt Blood",
+      "weapon": "Pax Claw",
+      "display_name": "Pax Claw (Burnt Blood skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Pax/Claw"
+    },
+    {
+      "skin": "Burnt Blood",
+      "weapon": "Pax Trueshot",
+      "display_name": "Pax Trueshot (Burnt Blood skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Pax/Trueshot"
+    },
+    {
+      "skin": "Burnt Blood: Claw",
+      "weapon": "Pax Claw",
+      "display_name": "Pax Claw (Burnt Blood: Claw skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Pax/Claw"
+    },
+    {
+      "skin": "Burnt Blood: Trueshot",
+      "weapon": "Pax Trueshot",
+      "display_name": "Pax Trueshot (Burnt Blood: Trueshot skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Pax/Trueshot"
+    },
+    {
+      "skin": "Cadaver Song",
+      "weapon": "Sparks",
+      "display_name": "Sparks (Cadaver Song skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks"
+    },
+    {
+      "skin": "Calamity Jane",
+      "weapon": "Centennial",
+      "display_name": "Centennial (Calamity Jane skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial"
+    },
+    {
+      "skin": "Caldera",
+      "weapon": "Pax Claw",
+      "display_name": "Pax Claw (Caldera skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Pax/Claw"
+    },
+    {
+      "skin": "Carrion's Call",
+      "weapon": "Rival 78",
+      "display_name": "Rival 78 (Carrion's Call skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Rival_78"
+    },
+    {
+      "skin": "Carter's Quickshot",
+      "weapon": "Specter 1882 Shorty",
+      "display_name": "Specter 1882 Shorty (Carter's Quickshot skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Specter_1882/Shorty"
+    },
+    {
+      "skin": "Cassius",
+      "weapon": "Berthier 1892",
+      "display_name": "Berthier 1892 (Cassius skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Berthier_1892"
+    },
+    {
+      "skin": "Celestial Scream",
+      "weapon": "Drilling",
+      "display_name": "Drilling (Celestial Scream skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Drilling"
+    },
+    {
+      "skin": "Celestial Scream",
+      "weapon": "Drilling Hatchet",
+      "display_name": "Drilling Hatchet (Celestial Scream skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Drilling/Hatchet"
+    },
+    {
+      "skin": "Celestial Scream",
+      "weapon": "Drilling Shorty",
+      "display_name": "Drilling Shorty (Celestial Scream skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Drilling/Shorty"
+    },
+    {
+      "skin": "Celestial Scream: Hatchet",
+      "weapon": "Drilling Hatchet",
+      "display_name": "Drilling Hatchet (Celestial Scream: Hatchet skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Drilling/Hatchet"
+    },
+    {
+      "skin": "Celestial Scream: Shorty",
+      "weapon": "Drilling Shorty",
+      "display_name": "Drilling Shorty (Celestial Scream: Shorty skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Drilling/Shorty"
+    },
+    {
+      "skin": "Certain Victory",
+      "weapon": "Pax",
+      "display_name": "Pax (Certain Victory skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Pax"
+    },
+    {
+      "skin": "Charmed Calamity",
+      "weapon": "Mako 1895 Claw",
+      "display_name": "Mako 1895 Claw (Charmed Calamity skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mako_1895/Claw"
+    },
+    {
+      "skin": "Chef's Kiss",
+      "weapon": "Vandal 73C",
+      "display_name": "Vandal 73C (Chef's Kiss skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vandal_73C"
+    },
+    {
+      "skin": "Chef's Kiss",
+      "weapon": "Vandal 73C Bullseye",
+      "display_name": "Vandal 73C Bullseye (Chef's Kiss skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vandal_73C/Bullseye"
+    },
+    {
+      "skin": "Chef's Kiss",
+      "weapon": "Vandal 73C Striker",
+      "display_name": "Vandal 73C Striker (Chef's Kiss skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vandal_73C/Striker"
+    },
+    {
+      "skin": "Chef's Kiss: Bullseye",
+      "weapon": "Vandal 73C Bullseye",
+      "display_name": "Vandal 73C Bullseye (Chef's Kiss: Bullseye skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vandal_73C/Bullseye"
+    },
+    {
+      "skin": "Chef's Kiss: Striker",
+      "weapon": "Vandal 73C Striker",
+      "display_name": "Vandal 73C Striker (Chef's Kiss: Striker skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vandal_73C/Striker"
+    },
+    {
+      "skin": "Closed Casket",
+      "weapon": "Mosin Obrez Mace",
+      "display_name": "Mosin Obrez Mace (Closed Casket skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin_Obrez/Mace"
+    },
+    {
+      "skin": "Clown Show",
+      "weapon": "Auto-4 Shorty",
+      "display_name": "Auto-4 Shorty (Clown Show skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Auto-4_Shorty"
+    },
+    {
+      "skin": "Cobra da Várzea",
+      "weapon": "Scottfield Spitfire",
+      "display_name": "Scottfield Spitfire (Cobra da Várzea skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield/Spitfire"
+    },
+    {
+      "skin": "Coluber",
+      "weapon": "Romero 77 Alamo",
+      "display_name": "Romero 77 Alamo (Coluber skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Alamo"
+    },
+    {
+      "skin": "Copperhead",
+      "weapon": "Nagant M1895",
+      "display_name": "Nagant M1895 (Copperhead skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Nagant_M1895"
+    },
+    {
+      "skin": "Corrosion",
+      "weapon": "Drilling",
+      "display_name": "Drilling (Corrosion skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Drilling"
+    },
+    {
+      "skin": "Corrosive Vessel",
+      "weapon": "Sparks Silencer",
+      "display_name": "Sparks Silencer (Corrosive Vessel skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks/Silencer"
+    },
+    {
+      "skin": "Corvus",
+      "weapon": "Cavalry Saber",
+      "display_name": "Cavalry Saber (Corvus skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Cavalry_Saber"
+    },
+    {
+      "skin": "Covert Messenger",
+      "weapon": "Romero 77 Alamo",
+      "display_name": "Romero 77 Alamo (Covert Messenger skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Alamo"
+    },
+    {
+      "skin": "Cracked Obelisk",
+      "weapon": "Combat Axe",
+      "display_name": "Combat Axe (Cracked Obelisk skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Combat_Axe"
+    },
+    {
+      "skin": "Creeping Night",
+      "weapon": "Centennial Shorty Silencer",
+      "display_name": "Centennial Shorty Silencer (Creeping Night skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Shorty_Silencer"
+    },
+    {
+      "skin": "Cretaceous Cruelty",
+      "weapon": "Frontier 73C",
+      "display_name": "Frontier 73C (Cretaceous Cruelty skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Frontier_73C"
+    },
+    {
+      "skin": "Crimson Fist",
+      "weapon": "Scottfield Brawler",
+      "display_name": "Scottfield Brawler (Crimson Fist skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield/Brawler"
+    },
+    {
+      "skin": "Crimson Varnish",
+      "weapon": "Haymaker",
+      "display_name": "Haymaker (Crimson Varnish skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Haymaker"
+    },
+    {
+      "skin": "Crossfire",
+      "weapon": "Dolch 96",
+      "display_name": "Dolch 96 (Crossfire skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Dolch_96"
+    },
+    {
+      "skin": "Crown Cinders",
+      "weapon": "Martini-Henry",
+      "display_name": "Martini-Henry (Crown Cinders skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Martini-Henry"
+    },
+    {
+      "skin": "Crypt Seal",
+      "weapon": "Sparks",
+      "display_name": "Sparks (Crypt Seal skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks"
+    },
+    {
+      "skin": "Crypt Seal",
+      "weapon": "Sparks Silencer",
+      "display_name": "Sparks Silencer (Crypt Seal skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks/Silencer"
+    },
+    {
+      "skin": "Crypt Seal",
+      "weapon": "Sparks Sniper",
+      "display_name": "Sparks Sniper (Crypt Seal skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks/Sniper"
+    },
+    {
+      "skin": "Crypt Seal: Silencer",
+      "weapon": "Sparks Silencer",
+      "display_name": "Sparks Silencer (Crypt Seal: Silencer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks/Silencer"
+    },
+    {
+      "skin": "Crypt Seal: Sniper",
+      "weapon": "Sparks Sniper",
+      "display_name": "Sparks Sniper (Crypt Seal: Sniper skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks/Sniper"
+    },
+    {
+      "skin": "Curtain Call",
+      "weapon": "Infantry 73L",
+      "display_name": "Infantry 73L (Curtain Call skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Infantry_73L"
+    },
+    {
+      "skin": "Curtain Call",
+      "weapon": "Infantry 73L Bayonet",
+      "display_name": "Infantry 73L Bayonet (Curtain Call skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Infantry_73L/Bayonet"
+    },
+    {
+      "skin": "Curtain Call",
+      "weapon": "Infantry 73L Sniper",
+      "display_name": "Infantry 73L Sniper (Curtain Call skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Infantry_73L/Sniper"
+    },
+    {
+      "skin": "Curtain Call: Bayonet",
+      "weapon": "Infantry 73L Bayonet",
+      "display_name": "Infantry 73L Bayonet (Curtain Call: Bayonet skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Infantry_73L/Bayonet"
+    },
+    {
+      "skin": "Curtain Call: Sniper",
+      "weapon": "Infantry 73L Sniper",
+      "display_name": "Infantry 73L Sniper (Curtain Call: Sniper skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Infantry_73L/Sniper"
+    },
+    {
+      "skin": "Cypress Thorn",
+      "weapon": "Cavalry Saber",
+      "display_name": "Cavalry Saber (Cypress Thorn skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Cavalry_Saber"
+    },
+    {
+      "skin": "Dark Insight",
+      "weapon": "Ranger 73 Aperture",
+      "display_name": "Ranger 73 Aperture (Dark Insight skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Aperture"
+    },
+    {
+      "skin": "Dark Miasma",
+      "weapon": "Conversion Chain Pistol",
+      "display_name": "Conversion Chain Pistol (Dark Miasma skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Conversion/Chain_Pistol"
+    },
+    {
+      "skin": "Dawn",
+      "weapon": "Nagant M1895 Silencer",
+      "display_name": "Nagant M1895 Silencer (Dawn skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Nagant_M1895/Silencer"
+    },
+    {
+      "skin": "Dead Man's Anthem",
+      "weapon": "Scottfield Swift",
+      "display_name": "Scottfield Swift (Dead Man's Anthem skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield/Swift"
+    },
+    {
+      "skin": "Deadly Cure",
+      "weapon": "Officer Carbine",
+      "display_name": "Officer Carbine (Deadly Cure skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Officer/Carbine"
+    },
+    {
+      "skin": "Death Knell",
+      "weapon": "Baseball Bat",
+      "display_name": "Baseball Bat (Death Knell skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Baseball_Bat"
+    },
+    {
+      "skin": "Death Letter",
+      "weapon": "Officer Brawler",
+      "display_name": "Officer Brawler (Death Letter skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Officer/Brawler"
+    },
+    {
+      "skin": "Death's Breath",
+      "weapon": "Ranger 73 Talon",
+      "display_name": "Ranger 73 Talon (Death's Breath skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Talon"
+    },
+    {
+      "skin": "Death's Caroler",
+      "weapon": "Krag",
+      "display_name": "Krag (Death's Caroler skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Krag"
+    },
+    {
+      "skin": "Death's Caroler",
+      "weapon": "Krag Bayonet",
+      "display_name": "Krag Bayonet (Death's Caroler skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Krag/Bayonet"
+    },
+    {
+      "skin": "Death's Caroler",
+      "weapon": "Krag Sniper",
+      "display_name": "Krag Sniper (Death's Caroler skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Krag/Sniper"
+    },
+    {
+      "skin": "Death's Caroler: Bayonet",
+      "weapon": "Krag Bayonet",
+      "display_name": "Krag Bayonet (Death's Caroler: Bayonet skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Krag/Bayonet"
+    },
+    {
+      "skin": "Death's Caroler: Sniper",
+      "weapon": "Krag Sniper",
+      "display_name": "Krag Sniper (Death's Caroler: Sniper skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Krag/Sniper"
+    },
+    {
+      "skin": "Death's Grin",
+      "weapon": "LeMat Carbine",
+      "display_name": "LeMat Carbine (Death's Grin skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/LeMat/Carbine"
+    },
+    {
+      "skin": "Death's Levy",
+      "weapon": "Drilling Hatchet",
+      "display_name": "Drilling Hatchet (Death's Levy skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Drilling/Hatchet"
+    },
+    {
+      "skin": "Death's Rose",
+      "weapon": "Maynard Sniper",
+      "display_name": "Maynard Sniper (Death's Rose skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Maynard_Sniper"
+    },
+    {
+      "skin": "Debate's End",
+      "weapon": "Mako 1895",
+      "display_name": "Mako 1895 (Debate's End skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mako_1895"
+    },
+    {
+      "skin": "Del Ojo",
+      "weapon": "Vetterli 71 Deadeye",
+      "display_name": "Vetterli 71 Deadeye (Del Ojo skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Deadeye"
+    },
+    {
+      "skin": "Delirium",
+      "weapon": "Rival 78",
+      "display_name": "Rival 78 (Delirium skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Rival_78"
+    },
+    {
+      "skin": "Deputy",
+      "weapon": "New Army",
+      "display_name": "New Army (Deputy skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/New_Army"
+    },
+    {
+      "skin": "DeSalle's Silence",
+      "weapon": "Sparks Silencer",
+      "display_name": "Sparks Silencer (DeSalle's Silence skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks/Silencer"
+    },
+    {
+      "skin": "Diamondback Darling",
+      "weapon": "Scottfield",
+      "display_name": "Scottfield (Diamondback Darling skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield"
+    },
+    {
+      "skin": "Dry Bones",
+      "weapon": "Uppercut Precision",
+      "display_name": "Uppercut Precision (Dry Bones skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut/Precision"
+    },
+    {
+      "skin": "Dusk",
+      "weapon": "Nagant M1895 Silencer",
+      "display_name": "Nagant M1895 Silencer (Dusk skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Nagant_M1895/Silencer"
+    },
+    {
+      "skin": "Dying Sun",
+      "weapon": "Scottfield Spitfire",
+      "display_name": "Scottfield Spitfire (Dying Sun skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield/Spitfire"
+    },
+    {
+      "skin": "Earthshine",
+      "weapon": "Berthier 1892",
+      "display_name": "Berthier 1892 (Earthshine skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Berthier_1892"
+    },
+    {
+      "skin": "Eclipse",
+      "weapon": "Scottfield Brawler",
+      "display_name": "Scottfield Brawler (Eclipse skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield/Brawler"
+    },
+    {
+      "skin": "Ember",
+      "weapon": "Conversion",
+      "display_name": "Conversion (Ember skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Conversion"
+    },
+    {
+      "skin": "Empty Cairn",
+      "weapon": "Mosin-Nagant",
+      "display_name": "Mosin-Nagant (Empty Cairn skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant"
+    },
+    {
+      "skin": "Empty Cairn",
+      "weapon": "Mosin-Nagant Avtomat",
+      "display_name": "Mosin-Nagant Avtomat (Empty Cairn skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant/Avtomat"
+    },
+    {
+      "skin": "Empty Cairn",
+      "weapon": "Mosin-Nagant Bayonet",
+      "display_name": "Mosin-Nagant Bayonet (Empty Cairn skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant/Bayonet"
+    },
+    {
+      "skin": "Empty Cairn: Avtomat",
+      "weapon": "Mosin-Nagant Avtomat",
+      "display_name": "Mosin-Nagant Avtomat (Empty Cairn: Avtomat skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant/Avtomat"
+    },
+    {
+      "skin": "Empty Cairn: Bayonet",
+      "weapon": "Mosin-Nagant Bayonet",
+      "display_name": "Mosin-Nagant Bayonet (Empty Cairn: Bayonet skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant/Bayonet"
+    },
+    {
+      "skin": "Enigma",
+      "weapon": "Scottfield Spitfire",
+      "display_name": "Scottfield Spitfire (Enigma skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield/Spitfire"
+    },
+    {
+      "skin": "Envenom",
+      "weapon": "Vetterli 71",
+      "display_name": "Vetterli 71 (Envenom skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71"
+    },
+    {
+      "skin": "Envenom",
+      "weapon": "Vetterli 71 Bayonet",
+      "display_name": "Vetterli 71 Bayonet (Envenom skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Bayonet"
+    },
+    {
+      "skin": "Envenom",
+      "weapon": "Vetterli 71 Cyclone",
+      "display_name": "Vetterli 71 Cyclone (Envenom skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Cyclone"
+    },
+    {
+      "skin": "Envenom",
+      "weapon": "Vetterli 71 Deadeye",
+      "display_name": "Vetterli 71 Deadeye (Envenom skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Deadeye"
+    },
+    {
+      "skin": "Envenom",
+      "weapon": "Vetterli 71 Marksman",
+      "display_name": "Vetterli 71 Marksman (Envenom skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Marksman"
+    },
+    {
+      "skin": "Envenom",
+      "weapon": "Vetterli 71 Silencer",
+      "display_name": "Vetterli 71 Silencer (Envenom skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Silencer"
+    },
+    {
+      "skin": "Envenom: Bayonet",
+      "weapon": "Vetterli 71 Bayonet",
+      "display_name": "Vetterli 71 Bayonet (Envenom: Bayonet skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Bayonet"
+    },
+    {
+      "skin": "Envenom: Cyclone",
+      "weapon": "Vetterli 71 Cyclone",
+      "display_name": "Vetterli 71 Cyclone (Envenom: Cyclone skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Cyclone"
+    },
+    {
+      "skin": "Envenom: Deadeye",
+      "weapon": "Vetterli 71 Deadeye",
+      "display_name": "Vetterli 71 Deadeye (Envenom: Deadeye skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Deadeye"
+    },
+    {
+      "skin": "Envenom: Marksman",
+      "weapon": "Vetterli 71 Marksman",
+      "display_name": "Vetterli 71 Marksman (Envenom: Marksman skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Marksman"
+    },
+    {
+      "skin": "Envenom: Silencer",
+      "weapon": "Vetterli 71 Silencer",
+      "display_name": "Vetterli 71 Silencer (Envenom: Silencer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Silencer"
+    },
+    {
+      "skin": "Ethyl",
+      "weapon": "LeMat",
+      "display_name": "LeMat (Ethyl skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/LeMat"
+    },
+    {
+      "skin": "Eulogy",
+      "weapon": "Slate",
+      "display_name": "Slate (Eulogy skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Slate"
+    },
+    {
+      "skin": "Eye Taker",
+      "weapon": "Hunting Bow",
+      "display_name": "Hunting Bow (Eye Taker skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Hunting_Bow"
+    },
+    {
+      "skin": "Falling Timber",
+      "weapon": "Nagant M1895 Silencer",
+      "display_name": "Nagant M1895 Silencer (Falling Timber skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Nagant_M1895/Silencer"
+    },
+    {
+      "skin": "Fatal Scurry",
+      "weapon": "New Army Swift",
+      "display_name": "New Army Swift (Fatal Scurry skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/New_Army/Swift"
+    },
+    {
+      "skin": "Fate's Friend",
+      "weapon": "Centennial Pointman",
+      "display_name": "Centennial Pointman (Fate's Friend skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Pointman"
+    },
+    {
+      "skin": "Fate's Friend",
+      "weapon": "Centennial Shorty",
+      "display_name": "Centennial Shorty (Fate's Friend skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Shorty"
+    },
+    {
+      "skin": "Fate's Friend",
+      "weapon": "Centennial Shorty Silencer",
+      "display_name": "Centennial Shorty Silencer (Fate's Friend skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Shorty_Silencer"
+    },
+    {
+      "skin": "Fate's Friend",
+      "weapon": "Centennial Sniper",
+      "display_name": "Centennial Sniper (Fate's Friend skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Sniper"
+    },
+    {
+      "skin": "Fate's Friend",
+      "weapon": "Centennial Trauma",
+      "display_name": "Centennial Trauma (Fate's Friend skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Trauma"
+    },
+    {
+      "skin": "Fate's Friend: Pointman",
+      "weapon": "Centennial Pointman",
+      "display_name": "Centennial Pointman (Fate's Friend: Pointman skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Pointman"
+    },
+    {
+      "skin": "Fate's Friend: Shorty",
+      "weapon": "Centennial Shorty",
+      "display_name": "Centennial Shorty (Fate's Friend: Shorty skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Shorty"
+    },
+    {
+      "skin": "Fate's Friend: Shorty Silencer",
+      "weapon": "Centennial Shorty Silencer",
+      "display_name": "Centennial Shorty Silencer (Fate's Friend: Shorty Silencer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Shorty_Silencer"
+    },
+    {
+      "skin": "Fate's Friend: Sniper",
+      "weapon": "Centennial Sniper",
+      "display_name": "Centennial Sniper (Fate's Friend: Sniper skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Sniper"
+    },
+    {
+      "skin": "Fate's Friend: Trauma",
+      "weapon": "Centennial Trauma",
+      "display_name": "Centennial Trauma (Fate's Friend: Trauma skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Trauma"
+    },
+    {
+      "skin": "Fate's Whisper",
+      "weapon": "Vetterli 71 Silencer",
+      "display_name": "Vetterli 71 Silencer (Fate's Whisper skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Silencer"
+    },
+    {
+      "skin": "Faultless",
+      "weapon": "Conversion",
+      "display_name": "Conversion (Faultless skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Conversion"
+    },
+    {
+      "skin": "Felon's Six",
+      "weapon": "Scottfield",
+      "display_name": "Scottfield (Felon's Six skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield"
+    },
+    {
+      "skin": "Ferro",
+      "weapon": "Romero 77 Shorty",
+      "display_name": "Romero 77 Shorty (Ferro skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Shorty"
+    },
+    {
+      "skin": "Ferryman's Oar",
+      "weapon": "Berthier 1892",
+      "display_name": "Berthier 1892 (Ferryman's Oar skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Berthier_1892"
+    },
+    {
+      "skin": "Ferryman's Toll",
+      "weapon": "Berthier 1892",
+      "display_name": "Berthier 1892 (Ferryman's Toll skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Berthier_1892"
+    },
+    {
+      "skin": "Fierce Garland",
+      "weapon": "Martini-Henry",
+      "display_name": "Martini-Henry (Fierce Garland skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Martini-Henry"
+    },
+    {
+      "skin": "Fifty Laurels",
+      "weapon": "Ranger 73",
+      "display_name": "Ranger 73 (Fifty Laurels skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73"
+    },
+    {
+      "skin": "Filibuster",
+      "weapon": "Frontier 73C Silencer",
+      "display_name": "Frontier 73C Silencer (Filibuster skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Frontier_73C/Silencer"
+    },
+    {
+      "skin": "Fire Torn",
+      "weapon": "Sparks",
+      "display_name": "Sparks (Fire Torn skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks"
+    },
+    {
+      "skin": "First Fruits",
+      "weapon": "Hunting Bow",
+      "display_name": "Hunting Bow (First Fruits skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Hunting_Bow"
+    },
+    {
+      "skin": "Fissure",
+      "weapon": "Romero 77 Hatchet",
+      "display_name": "Romero 77 Hatchet (Fissure skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Hatchet"
+    },
+    {
+      "skin": "Flat Iron",
+      "weapon": "Romero 77 Alamo",
+      "display_name": "Romero 77 Alamo (Flat Iron skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Alamo"
+    },
+    {
+      "skin": "Forest Sting",
+      "weapon": "Scottfield Precision",
+      "display_name": "Scottfield Precision (Forest Sting skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield/Precision"
+    },
+    {
+      "skin": "Fossil Tooth",
+      "weapon": "Drilling Shorty",
+      "display_name": "Drilling Shorty (Fossil Tooth skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Drilling/Shorty"
+    },
+    {
+      "skin": "Fresh Marrow",
+      "weapon": "Uppercut",
+      "display_name": "Uppercut (Fresh Marrow skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut"
+    },
+    {
+      "skin": "Funeral Dirge",
+      "weapon": "Bornheim No. 3",
+      "display_name": "Bornheim No. 3 (Funeral Dirge skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bornheim_No._3"
+    },
+    {
+      "skin": "Gator",
+      "weapon": "Rival 78 Shorty",
+      "display_name": "Rival 78 Shorty (Gator skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Rival_78/Shorty"
+    },
+    {
+      "skin": "Gaunt",
+      "weapon": "Mosin Obrez Extended",
+      "display_name": "Mosin Obrez Extended (Gaunt skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin_Obrez/Extended"
+    },
+    {
+      "skin": "Gilded Maul",
+      "weapon": "Railroad Hammer",
+      "display_name": "Railroad Hammer (Gilded Maul skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Railroad_Hammer"
+    },
+    {
+      "skin": "Gnawing Ire",
+      "weapon": "Marathon",
+      "display_name": "Marathon (Gnawing Ire skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Marathon"
+    },
+    {
+      "skin": "Gold Rush",
+      "weapon": "Vandal 73C",
+      "display_name": "Vandal 73C (Gold Rush skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vandal_73C"
+    },
+    {
+      "skin": "Golden Hair Trigger",
+      "weapon": "Dolch 96 Claw",
+      "display_name": "Dolch 96 Claw (Golden Hair Trigger skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Dolch_96/Claw"
+    },
+    {
+      "skin": "Golden Petal",
+      "weapon": "Bornheim No. 3",
+      "display_name": "Bornheim No. 3 (Golden Petal skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bornheim_No._3"
+    },
+    {
+      "skin": "Golden Petal",
+      "weapon": "Bornheim No. 3 Extended",
+      "display_name": "Bornheim No. 3 Extended (Golden Petal skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bornheim_No._3/Extended"
+    },
+    {
+      "skin": "Golden Petal",
+      "weapon": "Bornheim No. 3 Match",
+      "display_name": "Bornheim No. 3 Match (Golden Petal skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bornheim_No._3/Match"
+    },
+    {
+      "skin": "Golden Petal",
+      "weapon": "Bornheim No. 3 Silencer",
+      "display_name": "Bornheim No. 3 Silencer (Golden Petal skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bornheim_No._3/Silencer"
+    },
+    {
+      "skin": "Golden Petal: Extended",
+      "weapon": "Bornheim No. 3 Extended",
+      "display_name": "Bornheim No. 3 Extended (Golden Petal: Extended skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bornheim_No._3/Extended"
+    },
+    {
+      "skin": "Golden Petal: Match",
+      "weapon": "Bornheim No. 3 Match",
+      "display_name": "Bornheim No. 3 Match (Golden Petal: Match skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bornheim_No._3/Match"
+    },
+    {
+      "skin": "Golden Petal: Silencer",
+      "weapon": "Bornheim No. 3 Silencer",
+      "display_name": "Bornheim No. 3 Silencer (Golden Petal: Silencer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bornheim_No._3/Silencer"
+    },
+    {
+      "skin": "Golden Ticket",
+      "weapon": "Bornheim No. 3",
+      "display_name": "Bornheim No. 3 (Golden Ticket skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bornheim_No._3"
+    },
+    {
+      "skin": "Good Intentions",
+      "weapon": "Scottfield Spitfire",
+      "display_name": "Scottfield Spitfire (Good Intentions skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield/Spitfire"
+    },
+    {
+      "skin": "Grace and Grit",
+      "weapon": "Romero 77 Shorty",
+      "display_name": "Romero 77 Shorty (Grace and Grit skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Shorty"
+    },
+    {
+      "skin": "Grave Comeuppance",
+      "weapon": "Romero 77",
+      "display_name": "Romero 77 (Grave Comeuppance skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77"
+    },
+    {
+      "skin": "Grave Comeuppance",
+      "weapon": "Romero 77 Alamo",
+      "display_name": "Romero 77 Alamo (Grave Comeuppance skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Alamo"
+    },
+    {
+      "skin": "Grave Comeuppance",
+      "weapon": "Romero 77 Talon",
+      "display_name": "Romero 77 Talon (Grave Comeuppance skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Talon"
+    },
+    {
+      "skin": "Grave Comeuppance: Alamo",
+      "weapon": "Romero 77 Alamo",
+      "display_name": "Romero 77 Alamo (Grave Comeuppance: Alamo skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Alamo"
+    },
+    {
+      "skin": "Grave Comeuppance: Talon",
+      "weapon": "Romero 77 Talon",
+      "display_name": "Romero 77 Talon (Grave Comeuppance: Talon skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Talon"
+    },
+    {
+      "skin": "Grave Filler",
+      "weapon": "Conversion Chain Pistol",
+      "display_name": "Conversion Chain Pistol (Grave Filler skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Conversion/Chain_Pistol"
+    },
+    {
+      "skin": "Grave Silence",
+      "weapon": "Nagant M1895 Silencer",
+      "display_name": "Nagant M1895 Silencer (Grave Silence skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Nagant_M1895/Silencer"
+    },
+    {
+      "skin": "Greed",
+      "weapon": "Romero 77 Shorty",
+      "display_name": "Romero 77 Shorty (Greed skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Shorty"
+    },
+    {
+      "skin": "Griffin",
+      "weapon": "Dolch 96 Precision",
+      "display_name": "Dolch 96 Precision (Griffin skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Dolch_96/Precision"
+    },
+    {
+      "skin": "Grim Inquest",
+      "weapon": "Officer",
+      "display_name": "Officer (Grim Inquest skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Officer"
+    },
+    {
+      "skin": "Grim Inquest",
+      "weapon": "Officer Brawler",
+      "display_name": "Officer Brawler (Grim Inquest skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Officer/Brawler"
+    },
+    {
+      "skin": "Grim Inquest",
+      "weapon": "Officer Carbine",
+      "display_name": "Officer Carbine (Grim Inquest skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Officer/Carbine"
+    },
+    {
+      "skin": "Grim Inquest",
+      "weapon": "Officer Carbine Deadeye",
+      "display_name": "Officer Carbine Deadeye (Grim Inquest skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Officer/Carbine_Deadeye"
+    },
+    {
+      "skin": "Grim Inquest: Brawler",
+      "weapon": "Officer Brawler",
+      "display_name": "Officer Brawler (Grim Inquest: Brawler skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Officer/Brawler"
+    },
+    {
+      "skin": "Grim Inquest: Carbine",
+      "weapon": "Officer Carbine",
+      "display_name": "Officer Carbine (Grim Inquest: Carbine skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Officer/Carbine"
+    },
+    {
+      "skin": "Grim Inquest: Carbine Deadeye",
+      "weapon": "Officer Carbine Deadeye",
+      "display_name": "Officer Carbine Deadeye (Grim Inquest: Carbine Deadeye skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Officer/Carbine_Deadeye"
+    },
+    {
+      "skin": "Hacivat",
+      "weapon": "Scottfield Swift",
+      "display_name": "Scottfield Swift (Hacivat skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield/Swift"
+    },
+    {
+      "skin": "Hailstorm",
+      "weapon": "Mosin-Nagant Sniper",
+      "display_name": "Mosin-Nagant Sniper (Hailstorm skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant/Sniper"
+    },
+    {
+      "skin": "Hard Feelings",
+      "weapon": "Sparks Sniper",
+      "display_name": "Sparks Sniper (Hard Feelings skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks/Sniper"
+    },
+    {
+      "skin": "Heart's Dowry",
+      "weapon": "Haymaker",
+      "display_name": "Haymaker (Heart's Dowry skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Haymaker"
+    },
+    {
+      "skin": "Heathen's Ruin",
+      "weapon": "Berthier 1892 Marksman",
+      "display_name": "Berthier 1892 Marksman (Heathen's Ruin skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Berthier_1892/Marksman"
+    },
+    {
+      "skin": "Heaven's Key",
+      "weapon": "Martini-Henry Ironside",
+      "display_name": "Martini-Henry Ironside (Heaven's Key skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Martini-Henry/Ironside"
+    },
+    {
+      "skin": "Hedera Mortiferum",
+      "weapon": "Conversion Chain Pistol",
+      "display_name": "Conversion Chain Pistol (Hedera Mortiferum skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Conversion/Chain_Pistol"
+    },
+    {
+      "skin": "Hell's Dewclaw",
+      "weapon": "Pax",
+      "display_name": "Pax (Hell's Dewclaw skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Pax"
+    },
+    {
+      "skin": "Hell's Wings",
+      "weapon": "Chu Ko Nu",
+      "display_name": "Chu Ko Nu (Hell's Wings skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Chu_Ko_Nu"
+    },
+    {
+      "skin": "Herd Thinner",
+      "weapon": "Hunting Bow",
+      "display_name": "Hunting Bow (Herd Thinner skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Hunting_Bow"
+    },
+    {
+      "skin": "Hermit Stick",
+      "weapon": "Baseball Bat",
+      "display_name": "Baseball Bat (Hermit Stick skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Baseball_Bat"
+    },
+    {
+      "skin": "Hidden Strike",
+      "weapon": "Krag Sniper",
+      "display_name": "Krag Sniper (Hidden Strike skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Krag/Sniper"
+    },
+    {
+      "skin": "Highroad Livery",
+      "weapon": "Maynard Sniper",
+      "display_name": "Maynard Sniper (Highroad Livery skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Maynard_Sniper"
+    },
+    {
+      "skin": "Highroad Livery",
+      "weapon": "Maynard Sniper Silencer",
+      "display_name": "Maynard Sniper Silencer (Highroad Livery skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Maynard_Sniper/Silencer"
+    },
+    {
+      "skin": "Highroad Livery: Silencer",
+      "weapon": "Maynard Sniper Silencer",
+      "display_name": "Maynard Sniper Silencer (Highroad Livery: Silencer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Maynard_Sniper/Silencer"
+    },
+    {
+      "skin": "Honor Above",
+      "weapon": "New Army",
+      "display_name": "New Army (Honor Above skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/New_Army"
+    },
+    {
+      "skin": "Honor's Gift",
+      "weapon": "Conversion",
+      "display_name": "Conversion (Honor's Gift skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Conversion"
+    },
+    {
+      "skin": "Hoof and Horn",
+      "weapon": "Terminus",
+      "display_name": "Terminus (Hoof and Horn skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Terminus"
+    },
+    {
+      "skin": "Howling Gale",
+      "weapon": "Scottfield Precision",
+      "display_name": "Scottfield Precision (Howling Gale skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield/Precision"
+    },
+    {
+      "skin": "Hunter's Guide",
+      "weapon": "LeMat",
+      "display_name": "LeMat (Hunter's Guide skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/LeMat"
+    },
+    {
+      "skin": "Hush",
+      "weapon": "Frontier 73C Silencer",
+      "display_name": "Frontier 73C Silencer (Hush skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Frontier_73C/Silencer"
+    },
+    {
+      "skin": "Hyde",
+      "weapon": "Pax",
+      "display_name": "Pax (Hyde skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Pax"
+    },
+    {
+      "skin": "Ignis Fatuus",
+      "weapon": "New Army",
+      "display_name": "New Army (Ignis Fatuus skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/New_Army"
+    },
+    {
+      "skin": "Indecision's End",
+      "weapon": "Centennial Pointman",
+      "display_name": "Centennial Pointman (Indecision's End skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Pointman"
+    },
+    {
+      "skin": "Indecision's End",
+      "weapon": "Centennial Shorty",
+      "display_name": "Centennial Shorty (Indecision's End skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Shorty"
+    },
+    {
+      "skin": "Indecision's End",
+      "weapon": "Centennial Shorty Silencer",
+      "display_name": "Centennial Shorty Silencer (Indecision's End skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Shorty_Silencer"
+    },
+    {
+      "skin": "Indecision's End: Pointman",
+      "weapon": "Centennial Pointman",
+      "display_name": "Centennial Pointman (Indecision's End: Pointman skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Pointman"
+    },
+    {
+      "skin": "Indecision's End: Shorty Silencer",
+      "weapon": "Centennial Shorty Silencer",
+      "display_name": "Centennial Shorty Silencer (Indecision's End: Shorty Silencer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Shorty_Silencer"
+    },
+    {
+      "skin": "Intricate Demise",
+      "weapon": "Pax Trueshot",
+      "display_name": "Pax Trueshot (Intricate Demise skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Pax/Trueshot"
+    },
+    {
+      "skin": "Intrinsic Sin",
+      "weapon": "Uppercut",
+      "display_name": "Uppercut (Intrinsic Sin skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut"
+    },
+    {
+      "skin": "Iron Fury",
+      "weapon": "Mosin Obrez",
+      "display_name": "Mosin Obrez (Iron Fury skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin_Obrez"
+    },
+    {
+      "skin": "Iron Fury",
+      "weapon": "Mosin Obrez Extended",
+      "display_name": "Mosin Obrez Extended (Iron Fury skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin_Obrez/Extended"
+    },
+    {
+      "skin": "Iron Fury",
+      "weapon": "Mosin Obrez Mace",
+      "display_name": "Mosin Obrez Mace (Iron Fury skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin_Obrez/Mace"
+    },
+    {
+      "skin": "Iron Fury",
+      "weapon": "Mosin Obrez Match",
+      "display_name": "Mosin Obrez Match (Iron Fury skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin_Obrez/Match"
+    },
+    {
+      "skin": "Iron Fury",
+      "weapon": "Mosin Obrez Sharpeye",
+      "display_name": "Mosin Obrez Sharpeye (Iron Fury skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin_Obrez/Sharpeye"
+    },
+    {
+      "skin": "Iron Fury: Extended",
+      "weapon": "Mosin Obrez Extended",
+      "display_name": "Mosin Obrez Extended (Iron Fury: Extended skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin_Obrez/Extended"
+    },
+    {
+      "skin": "Iron Fury: Mace",
+      "weapon": "Mosin Obrez Mace",
+      "display_name": "Mosin Obrez Mace (Iron Fury: Mace skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin_Obrez/Mace"
+    },
+    {
+      "skin": "Iron Fury: Match",
+      "weapon": "Mosin Obrez Match",
+      "display_name": "Mosin Obrez Match (Iron Fury: Match skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin_Obrez/Match"
+    },
+    {
+      "skin": "Iron Fury: Sharpeye",
+      "weapon": "Mosin Obrez Sharpeye",
+      "display_name": "Mosin Obrez Sharpeye (Iron Fury: Sharpeye skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin_Obrez/Sharpeye"
+    },
+    {
+      "skin": "Jack o' Diamonds",
+      "weapon": "Crossbow",
+      "display_name": "Crossbow (Jack o' Diamonds skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Crossbow"
+    },
+    {
+      "skin": "Jackal's Snare",
+      "weapon": "Terminus",
+      "display_name": "Terminus (Jackal's Snare skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Terminus"
+    },
+    {
+      "skin": "Jana",
+      "weapon": "LeMat",
+      "display_name": "LeMat (Jana skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/LeMat"
+    },
+    {
+      "skin": "Jekyll",
+      "weapon": "Pax",
+      "display_name": "Pax (Jekyll skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Pax"
+    },
+    {
+      "skin": "Judge",
+      "weapon": "Scottfield",
+      "display_name": "Scottfield (Judge skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield"
+    },
+    {
+      "skin": "Jury",
+      "weapon": "Scottfield Swift",
+      "display_name": "Scottfield Swift (Jury skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield/Swift"
+    },
+    {
+      "skin": "Kamacite Moon",
+      "weapon": "Uppercut",
+      "display_name": "Uppercut (Kamacite Moon skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut"
+    },
+    {
+      "skin": "Karagöz",
+      "weapon": "Springfield 1866",
+      "display_name": "Springfield 1866 (Karagöz skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Springfield_1866"
+    },
+    {
+      "skin": "Killian's Chance",
+      "weapon": "Officer Brawler",
+      "display_name": "Officer Brawler (Killian's Chance skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Officer/Brawler"
+    },
+    {
+      "skin": "Kinfolk's Clutch",
+      "weapon": "Terminus",
+      "display_name": "Terminus (Kinfolk's Clutch skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Terminus"
+    },
+    {
+      "skin": "King of the Ring",
+      "weapon": "New Army Swift",
+      "display_name": "New Army Swift (King of the Ring skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/New_Army/Swift"
+    },
+    {
+      "skin": "Knuckle Shunt",
+      "weapon": "Scottfield Brawler",
+      "display_name": "Scottfield Brawler (Knuckle Shunt skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield/Brawler"
+    },
+    {
+      "skin": "Lap of Luxury",
+      "weapon": "1865 Carbine",
+      "display_name": "1865 Carbine (Lap of Luxury skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/1865_Carbine"
+    },
+    {
+      "skin": "Last Chance",
+      "weapon": "Officer Brawler",
+      "display_name": "Officer Brawler (Last Chance skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Officer/Brawler"
+    },
+    {
+      "skin": "Last Estate",
+      "weapon": "Terminus",
+      "display_name": "Terminus (Last Estate skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Terminus"
+    },
+    {
+      "skin": "Last Gust",
+      "weapon": "Ranger 73 Swift",
+      "display_name": "Ranger 73 Swift (Last Gust skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Swift"
+    },
+    {
+      "skin": "Last Line",
+      "weapon": "Pax Trueshot",
+      "display_name": "Pax Trueshot (Last Line skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Pax/Trueshot"
+    },
+    {
+      "skin": "Last Resort",
+      "weapon": "LeMat",
+      "display_name": "LeMat (Last Resort skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/LeMat"
+    },
+    {
+      "skin": "Last Transaction",
+      "weapon": "Sparks Pistol",
+      "display_name": "Sparks Pistol (Last Transaction skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks/Pistol"
+    },
+    {
+      "skin": "Lavish Farewell",
+      "weapon": "Pax",
+      "display_name": "Pax (Lavish Farewell skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Pax"
+    },
+    {
+      "skin": "Liar's Bite",
+      "weapon": "Sparks Pistol",
+      "display_name": "Sparks Pistol (Liar's Bite skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks/Pistol"
+    },
+    {
+      "skin": "Lion's Roar",
+      "weapon": "Centennial",
+      "display_name": "Centennial (Lion's Roar skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial"
+    },
+    {
+      "skin": "Lion's Verdict",
+      "weapon": "Railroad Hammer",
+      "display_name": "Railroad Hammer (Lion's Verdict skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Railroad_Hammer"
+    },
+    {
+      "skin": "Lock and Key",
+      "weapon": "Romero 77",
+      "display_name": "Romero 77 (Lock and Key skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77"
+    },
+    {
+      "skin": "Lockjaw",
+      "weapon": "Romero 77",
+      "display_name": "Romero 77 (Lockjaw skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77"
+    },
+    {
+      "skin": "Lockjaw",
+      "weapon": "Romero 77 Alamo",
+      "display_name": "Romero 77 Alamo (Lockjaw skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Alamo"
+    },
+    {
+      "skin": "Lockjaw",
+      "weapon": "Romero 77 Talon",
+      "display_name": "Romero 77 Talon (Lockjaw skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Talon"
+    },
+    {
+      "skin": "Lockjaw: Alamo",
+      "weapon": "Romero 77 Alamo",
+      "display_name": "Romero 77 Alamo (Lockjaw: Alamo skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Alamo"
+    },
+    {
+      "skin": "Lockjaw: Talon",
+      "weapon": "Romero 77 Talon",
+      "display_name": "Romero 77 Talon (Lockjaw: Talon skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Talon"
+    },
+    {
+      "skin": "Long Arm of the Wild",
+      "weapon": "Mosin-Nagant",
+      "display_name": "Mosin-Nagant (Long Arm of the Wild skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant"
+    },
+    {
+      "skin": "Long Hand",
+      "weapon": "Martini-Henry",
+      "display_name": "Martini-Henry (Long Hand skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Martini-Henry"
+    },
+    {
+      "skin": "Lord's Prayer",
+      "weapon": "Uppercut",
+      "display_name": "Uppercut (Lord's Prayer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut"
+    },
+    {
+      "skin": "Louisiana Lustrum",
+      "weapon": "Sparks",
+      "display_name": "Sparks (Louisiana Lustrum skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks"
+    },
+    {
+      "skin": "Lucidus",
+      "weapon": "Vetterli 71 Silencer",
+      "display_name": "Vetterli 71 Silencer (Lucidus skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Silencer"
+    },
+    {
+      "skin": "Luck Maker",
+      "weapon": "Mako 1895",
+      "display_name": "Mako 1895 (Luck Maker skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mako_1895"
+    },
+    {
+      "skin": "Luck Maker",
+      "weapon": "Mako 1895 Aperture",
+      "display_name": "Mako 1895 Aperture (Luck Maker skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mako_1895/Aperture"
+    },
+    {
+      "skin": "Luck Maker",
+      "weapon": "Mako 1895 Claw",
+      "display_name": "Mako 1895 Claw (Luck Maker skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mako_1895/Claw"
+    },
+    {
+      "skin": "Luck Maker: Aperture",
+      "weapon": "Mako 1895 Aperture",
+      "display_name": "Mako 1895 Aperture (Luck Maker: Aperture skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mako_1895/Aperture"
+    },
+    {
+      "skin": "Luck Maker: Claw",
+      "weapon": "Mako 1895 Claw",
+      "display_name": "Mako 1895 Claw (Luck Maker: Claw skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mako_1895/Claw"
+    },
+    {
+      "skin": "Macchinista",
+      "weapon": "Sparks Pistol",
+      "display_name": "Sparks Pistol (Macchinista skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks/Pistol"
+    },
+    {
+      "skin": "Maelstrom",
+      "weapon": "Romero 77 Talon",
+      "display_name": "Romero 77 Talon (Maelstrom skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Talon"
+    },
+    {
+      "skin": "Malach",
+      "weapon": "Mako 1895",
+      "display_name": "Mako 1895 (Malach skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mako_1895"
+    },
+    {
+      "skin": "Malach",
+      "weapon": "Mako 1895 Aperture",
+      "display_name": "Mako 1895 Aperture (Malach skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mako_1895/Aperture"
+    },
+    {
+      "skin": "Malach",
+      "weapon": "Mako 1895 Claw",
+      "display_name": "Mako 1895 Claw (Malach skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mako_1895/Claw"
+    },
+    {
+      "skin": "Malach: Aperture",
+      "weapon": "Mako 1895 Aperture",
+      "display_name": "Mako 1895 Aperture (Malach: Aperture skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mako_1895/Aperture"
+    },
+    {
+      "skin": "Malach: Claw",
+      "weapon": "Mako 1895 Claw",
+      "display_name": "Mako 1895 Claw (Malach: Claw skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mako_1895/Claw"
+    },
+    {
+      "skin": "Malformer",
+      "weapon": "Railroad Hammer",
+      "display_name": "Railroad Hammer (Malformer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Railroad_Hammer"
+    },
+    {
+      "skin": "Malice",
+      "weapon": "Combat Axe",
+      "display_name": "Combat Axe (Malice skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Combat_Axe"
+    },
+    {
+      "skin": "Marble Saw",
+      "weapon": "Terminus",
+      "display_name": "Terminus (Marble Saw skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Terminus"
+    },
+    {
+      "skin": "Masquerade",
+      "weapon": "Vetterli 71 Silencer",
+      "display_name": "Vetterli 71 Silencer (Masquerade skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Silencer"
+    },
+    {
+      "skin": "Maw of Darkness",
+      "weapon": "Romero 77",
+      "display_name": "Romero 77 (Maw of Darkness skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77"
+    },
+    {
+      "skin": "Memento Mori",
+      "weapon": "Centennial",
+      "display_name": "Centennial (Memento Mori skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial"
+    },
+    {
+      "skin": "Mesa Updraught",
+      "weapon": "Vetterli 71 Deadeye",
+      "display_name": "Vetterli 71 Deadeye (Mesa Updraught skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Deadeye"
+    },
+    {
+      "skin": "Midnight Howl",
+      "weapon": "Uppercut",
+      "display_name": "Uppercut (Midnight Howl skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut"
+    },
+    {
+      "skin": "Midwinter Tusk",
+      "weapon": "Martini-Henry",
+      "display_name": "Martini-Henry (Midwinter Tusk skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Martini-Henry"
+    },
+    {
+      "skin": "Mockingbird",
+      "weapon": "Bornheim No. 3 Match",
+      "display_name": "Bornheim No. 3 Match (Mockingbird skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bornheim_No._3/Match"
+    },
+    {
+      "skin": "Moon Bleached",
+      "weapon": "Hand Crossbow",
+      "display_name": "Hand Crossbow (Moon Bleached skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Hand_Crossbow"
+    },
+    {
+      "skin": "Moonflower",
+      "weapon": "Berthier 1892 Riposte",
+      "display_name": "Berthier 1892 Riposte (Moonflower skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Berthier_1892/Riposte"
+    },
+    {
+      "skin": "Mosquito",
+      "weapon": "Nagant M1895 Silencer",
+      "display_name": "Nagant M1895 Silencer (Mosquito skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Nagant_M1895/Silencer"
+    },
+    {
+      "skin": "Mot Juste",
+      "weapon": "Cavalry Saber",
+      "display_name": "Cavalry Saber (Mot Juste skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Cavalry_Saber"
+    },
+    {
+      "skin": "Mother's Howl",
+      "weapon": "Krag",
+      "display_name": "Krag (Mother's Howl skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Krag"
+    },
+    {
+      "skin": "Motley Madness",
+      "weapon": "Nagant M1895",
+      "display_name": "Nagant M1895 (Motley Madness skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Nagant_M1895"
+    },
+    {
+      "skin": "Mountain Air",
+      "weapon": "Vetterli 71",
+      "display_name": "Vetterli 71 (Mountain Air skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71"
+    },
+    {
+      "skin": "Mouthless Melody",
+      "weapon": "Bornheim No. 3 Silencer",
+      "display_name": "Bornheim No. 3 Silencer (Mouthless Melody skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bornheim_No._3/Silencer"
+    },
+    {
+      "skin": "Muscadine",
+      "weapon": "Sparks Silencer",
+      "display_name": "Sparks Silencer (Muscadine skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks/Silencer"
+    },
+    {
+      "skin": "Myth Killer",
+      "weapon": "Crossbow",
+      "display_name": "Crossbow (Myth Killer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Crossbow"
+    },
+    {
+      "skin": "New Heirloom",
+      "weapon": "Mako 1895 Aperture",
+      "display_name": "Mako 1895 Aperture (New Heirloom skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mako_1895/Aperture"
+    },
+    {
+      "skin": "Night Terrors",
+      "weapon": "Ranger 73 Talon",
+      "display_name": "Ranger 73 Talon (Night Terrors skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Talon"
+    },
+    {
+      "skin": "Night Tyrant",
+      "weapon": "Uppercut",
+      "display_name": "Uppercut (Night Tyrant skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut"
+    },
+    {
+      "skin": "Night Tyrant",
+      "weapon": "Uppercut Deadeye",
+      "display_name": "Uppercut Deadeye (Night Tyrant skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut/Deadeye"
+    },
+    {
+      "skin": "Night Tyrant",
+      "weapon": "Uppercut Precision",
+      "display_name": "Uppercut Precision (Night Tyrant skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut/Precision"
+    },
+    {
+      "skin": "Night Tyrant: Deadeye",
+      "weapon": "Uppercut Deadeye",
+      "display_name": "Uppercut Deadeye (Night Tyrant: Deadeye skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut/Deadeye"
+    },
+    {
+      "skin": "Night Tyrant: Precision",
+      "weapon": "Uppercut Precision",
+      "display_name": "Uppercut Precision (Night Tyrant: Precision skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut/Precision"
+    },
+    {
+      "skin": "Nightjar's Swoop",
+      "weapon": "Krag",
+      "display_name": "Krag (Nightjar's Swoop skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Krag"
+    },
+    {
+      "skin": "Nightmare",
+      "weapon": "Vandal 73C Striker",
+      "display_name": "Vandal 73C Striker (Nightmare skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vandal_73C/Striker"
+    },
+    {
+      "skin": "No Clemency",
+      "weapon": "Auto-4 Shorty",
+      "display_name": "Auto-4 Shorty (No Clemency skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Auto-4_Shorty"
+    },
+    {
+      "skin": "No Clemency",
+      "weapon": "Auto-5",
+      "display_name": "Auto-5 (No Clemency skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Auto-5"
+    },
+    {
+      "skin": "No Clemency: Shorty",
+      "weapon": "Auto-4 Shorty",
+      "display_name": "Auto-4 Shorty (No Clemency: Shorty skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Auto-4_Shorty"
+    },
+    {
+      "skin": "No Quarter",
+      "weapon": "Slate Riposte",
+      "display_name": "Slate Riposte (No Quarter skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Slate/Riposte"
+    },
+    {
+      "skin": "Noble Execution",
+      "weapon": "Marathon Swift",
+      "display_name": "Marathon Swift (Noble Execution skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Marathon/Swift"
+    },
+    {
+      "skin": "Nocturnal Lament",
+      "weapon": "LeMat Carbine",
+      "display_name": "LeMat Carbine (Nocturnal Lament skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/LeMat/Carbine"
+    },
+    {
+      "skin": "Nola's Screw",
+      "weapon": "Bomb Lance",
+      "display_name": "Bomb Lance (Nola's Screw skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bomb_Lance"
+    },
+    {
+      "skin": "Nola's Tiller",
+      "weapon": "Bomb Lance",
+      "display_name": "Bomb Lance (Nola's Tiller skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bomb_Lance"
+    },
+    {
+      "skin": "Oberon's Hound",
+      "weapon": "Martini-Henry Marksman",
+      "display_name": "Martini-Henry Marksman (Oberon's Hound skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Martini-Henry/Marksman"
+    },
+    {
+      "skin": "Obituary",
+      "weapon": "LeMat Carbine",
+      "display_name": "LeMat Carbine (Obituary skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/LeMat/Carbine"
+    },
+    {
+      "skin": "Obsidian Sun",
+      "weapon": "Specter 1882",
+      "display_name": "Specter 1882 (Obsidian Sun skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Specter_1882"
+    },
+    {
+      "skin": "Ochenkov's Heart",
+      "weapon": "New Army",
+      "display_name": "New Army (Ochenkov's Heart skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/New_Army"
+    },
+    {
+      "skin": "Ochita Mozu",
+      "weapon": "Hunting Bow",
+      "display_name": "Hunting Bow (Ochita Mozu skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Hunting_Bow"
+    },
+    {
+      "skin": "Old Faithful",
+      "weapon": "Romero 77",
+      "display_name": "Romero 77 (Old Faithful skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77"
+    },
+    {
+      "skin": "Old Testament",
+      "weapon": "Centennial Sniper",
+      "display_name": "Centennial Sniper (Old Testament skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Sniper"
+    },
+    {
+      "skin": "Old Tusk",
+      "weapon": "Springfield 1866",
+      "display_name": "Springfield 1866 (Old Tusk skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Springfield_1866"
+    },
+    {
+      "skin": "Once Bitten",
+      "weapon": "Lebel 1886 Marksman",
+      "display_name": "Lebel 1886 Marksman (Once Bitten skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Lebel_1886/Marksman"
+    },
+    {
+      "skin": "Onyx Iron",
+      "weapon": "Conversion",
+      "display_name": "Conversion (Onyx Iron skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Conversion"
+    },
+    {
+      "skin": "Onyx Iron",
+      "weapon": "Conversion Chain Pistol",
+      "display_name": "Conversion Chain Pistol (Onyx Iron skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Conversion/Chain_Pistol"
+    },
+    {
+      "skin": "Onyx Iron: Chain Pistol",
+      "weapon": "Conversion Chain Pistol",
+      "display_name": "Conversion Chain Pistol (Onyx Iron: Chain Pistol skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Conversion/Chain_Pistol"
+    },
+    {
+      "skin": "Open Season",
+      "weapon": "Springfield 1866 Marksman",
+      "display_name": "Springfield 1866 Marksman (Open Season skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Springfield_1866/Marksman"
+    },
+    {
+      "skin": "Opera Glasses",
+      "weapon": "Frontier 73C Marksman",
+      "display_name": "Frontier 73C Marksman (Opera Glasses skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Frontier_73C/Marksman"
+    },
+    {
+      "skin": "Ophidian Eye",
+      "weapon": "Krag Silencer",
+      "display_name": "Krag Silencer (Ophidian Eye skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Krag/Silencer"
+    },
+    {
+      "skin": "Out the Ember",
+      "weapon": "Specter 1882",
+      "display_name": "Specter 1882 (Out the Ember skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Specter_1882"
+    },
+    {
+      "skin": "Out the Ember",
+      "weapon": "Specter 1882 Bayonet",
+      "display_name": "Specter 1882 Bayonet (Out the Ember skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Specter_1882/Bayonet"
+    },
+    {
+      "skin": "Out the Ember",
+      "weapon": "Specter 1882 Shorty",
+      "display_name": "Specter 1882 Shorty (Out the Ember skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Specter_1882/Shorty"
+    },
+    {
+      "skin": "Out the Ember: Bayonet",
+      "weapon": "Specter 1882 Bayonet",
+      "display_name": "Specter 1882 Bayonet (Out the Ember: Bayonet skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Specter_1882/Bayonet"
+    },
+    {
+      "skin": "Out the Ember: Shorty",
+      "weapon": "Specter 1882 Shorty",
+      "display_name": "Specter 1882 Shorty (Out the Ember: Shorty skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Specter_1882/Shorty"
+    },
+    {
+      "skin": "Palazzo's Pride",
+      "weapon": "Krag Silencer",
+      "display_name": "Krag Silencer (Palazzo's Pride skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Krag/Silencer"
+    },
+    {
+      "skin": "Pallbearer's Crutch",
+      "weapon": "Berthier 1892 Marksman",
+      "display_name": "Berthier 1892 Marksman (Pallbearer's Crutch skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Berthier_1892/Marksman"
+    },
+    {
+      "skin": "Patre",
+      "weapon": "Infantry 73L Bayonet",
+      "display_name": "Infantry 73L Bayonet (Patre skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Infantry_73L/Bayonet"
+    },
+    {
+      "skin": "Patron's Prayer",
+      "weapon": "Berthier 1892",
+      "display_name": "Berthier 1892 (Patron's Prayer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Berthier_1892"
+    },
+    {
+      "skin": "Patron's Prayer",
+      "weapon": "Berthier 1892 Deadeye",
+      "display_name": "Berthier 1892 Deadeye (Patron's Prayer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Berthier_1892/Deadeye"
+    },
+    {
+      "skin": "Patron's Prayer",
+      "weapon": "Berthier 1892 Marksman",
+      "display_name": "Berthier 1892 Marksman (Patron's Prayer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Berthier_1892/Marksman"
+    },
+    {
+      "skin": "Patron's Prayer",
+      "weapon": "Berthier 1892 Riposte",
+      "display_name": "Berthier 1892 Riposte (Patron's Prayer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Berthier_1892/Riposte"
+    },
+    {
+      "skin": "Patron's Prayer: Deadeye",
+      "weapon": "Berthier 1892 Deadeye",
+      "display_name": "Berthier 1892 Deadeye (Patron's Prayer: Deadeye skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Berthier_1892/Deadeye"
+    },
+    {
+      "skin": "Patron's Prayer: Marksman",
+      "weapon": "Berthier 1892 Marksman",
+      "display_name": "Berthier 1892 Marksman (Patron's Prayer: Marksman skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Berthier_1892/Marksman"
+    },
+    {
+      "skin": "Patron's Prayer: Riposte",
+      "weapon": "Berthier 1892 Riposte",
+      "display_name": "Berthier 1892 Riposte (Patron's Prayer: Riposte skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Berthier_1892/Riposte"
+    },
+    {
+      "skin": "Peacemaker",
+      "weapon": "Pax Trueshot",
+      "display_name": "Pax Trueshot (Peacemaker skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Pax/Trueshot"
+    },
+    {
+      "skin": "Pearls Before Swine",
+      "weapon": "Auto-4 Shorty",
+      "display_name": "Auto-4 Shorty (Pearls Before Swine skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Auto-4_Shorty"
+    },
+    {
+      "skin": "Penumbra",
+      "weapon": "Crossbow",
+      "display_name": "Crossbow (Penumbra skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Crossbow"
+    },
+    {
+      "skin": "Piercing Edge",
+      "weapon": "Mako 1895 Claw",
+      "display_name": "Mako 1895 Claw (Piercing Edge skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mako_1895/Claw"
+    },
+    {
+      "skin": "Pincer Strike",
+      "weapon": "Hand Crossbow",
+      "display_name": "Hand Crossbow (Pincer Strike skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Hand_Crossbow"
+    },
+    {
+      "skin": "Pioneer's Blood",
+      "weapon": "Vetterli 71",
+      "display_name": "Vetterli 71 (Pioneer's Blood skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71"
+    },
+    {
+      "skin": "Polar Star",
+      "weapon": "Nagant M1895 Precision",
+      "display_name": "Nagant M1895 Precision (Polar Star skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Nagant_M1895/Precision"
+    },
+    {
+      "skin": "Poseidon's Whisper",
+      "weapon": "Nagant M1895 Silencer",
+      "display_name": "Nagant M1895 Silencer (Poseidon's Whisper skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Nagant_M1895/Silencer"
+    },
+    {
+      "skin": "Post Mortem",
+      "weapon": "Sparks Pistol Silencer",
+      "display_name": "Sparks Pistol Silencer (Post Mortem skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks/Pistol_Silencer"
+    },
+    {
+      "skin": "Proteção do Andarilho",
+      "weapon": "Slate",
+      "display_name": "Slate (Proteção do Andarilho skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Slate"
+    },
+    {
+      "skin": "Pupil Brine",
+      "weapon": "Dolch 96 Bullseye",
+      "display_name": "Dolch 96 Bullseye (Pupil Brine skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Dolch_96/Bullseye"
+    },
+    {
+      "skin": "Queen Bee",
+      "weapon": "Centennial Trauma",
+      "display_name": "Centennial Trauma (Queen Bee skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Trauma"
+    },
+    {
+      "skin": "Quietus",
+      "weapon": "Specter 1882 Shorty",
+      "display_name": "Specter 1882 Shorty (Quietus skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Specter_1882/Shorty"
+    },
+    {
+      "skin": "Rancor",
+      "weapon": "Uppercut",
+      "display_name": "Uppercut (Rancor skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut"
+    },
+    {
+      "skin": "Rattlesnake",
+      "weapon": "Nagant M1895 Deadeye",
+      "display_name": "Nagant M1895 Deadeye (Rattlesnake skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Nagant_M1895/Deadeye"
+    },
+    {
+      "skin": "Rattling Rage",
+      "weapon": "Conversion Chain Pistol",
+      "display_name": "Conversion Chain Pistol (Rattling Rage skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Conversion/Chain_Pistol"
+    },
+    {
+      "skin": "Razor Spate",
+      "weapon": "Drilling Hatchet",
+      "display_name": "Drilling Hatchet (Razor Spate skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Drilling/Hatchet"
+    },
+    {
+      "skin": "Raíz Mala",
+      "weapon": "Conversion Chain Pistol",
+      "display_name": "Conversion Chain Pistol (Raíz Mala skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Conversion/Chain_Pistol"
+    },
+    {
+      "skin": "Red Azimuth",
+      "weapon": "Nagant M1895",
+      "display_name": "Nagant M1895 (Red Azimuth skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Nagant_M1895"
+    },
+    {
+      "skin": "Revelation's Path",
+      "weapon": "LeMat",
+      "display_name": "LeMat (Revelation's Path skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/LeMat"
+    },
+    {
+      "skin": "Revelation's Road",
+      "weapon": "Haymaker",
+      "display_name": "Haymaker (Revelation's Road skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Haymaker"
+    },
+    {
+      "skin": "Rib Burster",
+      "weapon": "Krag Bayonet",
+      "display_name": "Krag Bayonet (Rib Burster skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Krag/Bayonet"
+    },
+    {
+      "skin": "Rich Man's Luck",
+      "weapon": "Cavalry Saber",
+      "display_name": "Cavalry Saber (Rich Man's Luck skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Cavalry_Saber"
+    },
+    {
+      "skin": "Ripper",
+      "weapon": "Pax Claw",
+      "display_name": "Pax Claw (Ripper skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Pax/Claw"
+    },
+    {
+      "skin": "Rite of Passage",
+      "weapon": "Dolch 96",
+      "display_name": "Dolch 96 (Rite of Passage skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Dolch_96"
+    },
+    {
+      "skin": "Ritual's Promise",
+      "weapon": "Martini-Henry",
+      "display_name": "Martini-Henry (Ritual's Promise skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Martini-Henry"
+    },
+    {
+      "skin": "Ritual's Promise",
+      "weapon": "Martini-Henry Deadeye",
+      "display_name": "Martini-Henry Deadeye (Ritual's Promise skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Martini-Henry/Deadeye"
+    },
+    {
+      "skin": "Ritual's Promise",
+      "weapon": "Martini-Henry Ironside",
+      "display_name": "Martini-Henry Ironside (Ritual's Promise skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Martini-Henry/Ironside"
+    },
+    {
+      "skin": "Ritual's Promise",
+      "weapon": "Martini-Henry Marksman",
+      "display_name": "Martini-Henry Marksman (Ritual's Promise skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Martini-Henry/Marksman"
+    },
+    {
+      "skin": "Ritual's Promise",
+      "weapon": "Martini-Henry Riposte",
+      "display_name": "Martini-Henry Riposte (Ritual's Promise skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Martini-Henry/Riposte"
+    },
+    {
+      "skin": "Ritual's Promise: Deadeye",
+      "weapon": "Martini-Henry Deadeye",
+      "display_name": "Martini-Henry Deadeye (Ritual's Promise: Deadeye skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Martini-Henry/Deadeye"
+    },
+    {
+      "skin": "Ritual's Promise: Ironside",
+      "weapon": "Martini-Henry Ironside",
+      "display_name": "Martini-Henry Ironside (Ritual's Promise: Ironside skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Martini-Henry/Ironside"
+    },
+    {
+      "skin": "Ritual's Promise: Marksman",
+      "weapon": "Martini-Henry Marksman",
+      "display_name": "Martini-Henry Marksman (Ritual's Promise: Marksman skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Martini-Henry/Marksman"
+    },
+    {
+      "skin": "Ritual's Promise: Riposte",
+      "weapon": "Martini-Henry Riposte",
+      "display_name": "Martini-Henry Riposte (Ritual's Promise: Riposte skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Martini-Henry/Riposte"
+    },
+    {
+      "skin": "Rougarou",
+      "weapon": "Mosin Obrez",
+      "display_name": "Mosin Obrez (Rougarou skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin_Obrez"
+    },
+    {
+      "skin": "Royal Sabotage",
+      "weapon": "Scottfield",
+      "display_name": "Scottfield (Royal Sabotage skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield"
+    },
+    {
+      "skin": "Sacrosanct",
+      "weapon": "Martini-Henry Deadeye",
+      "display_name": "Martini-Henry Deadeye (Sacrosanct skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Martini-Henry/Deadeye"
+    },
+    {
+      "skin": "Scapula",
+      "weapon": "Romero 77 Hatchet",
+      "display_name": "Romero 77 Hatchet (Scapula skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Hatchet"
+    },
+    {
+      "skin": "Scuttled Glory",
+      "weapon": "Terminus",
+      "display_name": "Terminus (Scuttled Glory skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Terminus"
+    },
+    {
+      "skin": "Seabird's Dive",
+      "weapon": "New Army",
+      "display_name": "New Army (Seabird's Dive skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/New_Army"
+    },
+    {
+      "skin": "Seinan Sharpshooter",
+      "weapon": "Springfield 1866",
+      "display_name": "Springfield 1866 (Seinan Sharpshooter skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Springfield_1866"
+    },
+    {
+      "skin": "Seven Sights",
+      "weapon": "Sparks Sniper",
+      "display_name": "Sparks Sniper (Seven Sights skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks/Sniper"
+    },
+    {
+      "skin": "Shahmaran",
+      "weapon": "Sparks",
+      "display_name": "Sparks (Shahmaran skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks"
+    },
+    {
+      "skin": "Shellback",
+      "weapon": "Bomb Lance",
+      "display_name": "Bomb Lance (Shellback skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bomb_Lance"
+    },
+    {
+      "skin": "Shogun's Roar",
+      "weapon": "Slate",
+      "display_name": "Slate (Shogun's Roar skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Slate"
+    },
+    {
+      "skin": "Shootist's Joy",
+      "weapon": "Crossbow Deadeye",
+      "display_name": "Crossbow Deadeye (Shootist's Joy skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Crossbow/Deadeye"
+    },
+    {
+      "skin": "Shot in the Dark",
+      "weapon": "Lebel 1886",
+      "display_name": "Lebel 1886 (Shot in the Dark skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Lebel_1886"
+    },
+    {
+      "skin": "Shrewd Savior",
+      "weapon": "Krag",
+      "display_name": "Krag (Shrewd Savior skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Krag"
+    },
+    {
+      "skin": "Side-Splitter",
+      "weapon": "Vetterli 71 Bayonet",
+      "display_name": "Vetterli 71 Bayonet (Side-Splitter skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Bayonet"
+    },
+    {
+      "skin": "Sideshow's Revenge",
+      "weapon": "Rival 78 Trauma",
+      "display_name": "Rival 78 Trauma (Sideshow's Revenge skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Rival_78/Trauma"
+    },
+    {
+      "skin": "Silent Repose",
+      "weapon": "Crossbow",
+      "display_name": "Crossbow (Silent Repose skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Crossbow"
+    },
+    {
+      "skin": "Silent Sting",
+      "weapon": "Bornheim No. 3 Silencer",
+      "display_name": "Bornheim No. 3 Silencer (Silent Sting skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bornheim_No._3/Silencer"
+    },
+    {
+      "skin": "Silver Wing",
+      "weapon": "Marathon",
+      "display_name": "Marathon (Silver Wing skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Marathon"
+    },
+    {
+      "skin": "Silver Wing",
+      "weapon": "Marathon Swift",
+      "display_name": "Marathon Swift (Silver Wing skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Marathon/Swift"
+    },
+    {
+      "skin": "Silver Wing: Swift",
+      "weapon": "Marathon Swift",
+      "display_name": "Marathon Swift (Silver Wing: Swift skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Marathon/Swift"
+    },
+    {
+      "skin": "Sinister Salvation",
+      "weapon": "1865 Carbine Silencer",
+      "display_name": "1865 Carbine Silencer (Sinister Salvation skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/1865_Carbine/Silencer"
+    },
+    {
+      "skin": "Sinner's Jezail",
+      "weapon": "Mosin Obrez",
+      "display_name": "Mosin Obrez (Sinner's Jezail skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin_Obrez"
+    },
+    {
+      "skin": "Sinner's Prayer",
+      "weapon": "Nitro Express",
+      "display_name": "Nitro Express (Sinner's Prayer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Nitro_Express"
+    },
+    {
+      "skin": "Sinner's Sinew",
+      "weapon": "Hunting Bow",
+      "display_name": "Hunting Bow (Sinner's Sinew skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Hunting_Bow"
+    },
+    {
+      "skin": "Sinners Jezail",
+      "weapon": "Mosin Obrez",
+      "display_name": "Mosin Obrez (Sinners Jezail skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin_Obrez"
+    },
+    {
+      "skin": "Sins of the Son",
+      "weapon": "Romero 77 Hatchet",
+      "display_name": "Romero 77 Hatchet (Sins of the Son skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Hatchet"
+    },
+    {
+      "skin": "Siren's Song",
+      "weapon": "Martini-Henry",
+      "display_name": "Martini-Henry (Siren's Song skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Martini-Henry"
+    },
+    {
+      "skin": "Sister's Anguish",
+      "weapon": "Hand Crossbow",
+      "display_name": "Hand Crossbow (Sister's Anguish skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Hand_Crossbow"
+    },
+    {
+      "skin": "Sister's Keeper",
+      "weapon": "Officer",
+      "display_name": "Officer (Sister's Keeper skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Officer"
+    },
+    {
+      "skin": "Skull Breaker",
+      "weapon": "Centennial Trauma",
+      "display_name": "Centennial Trauma (Skull Breaker skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Trauma"
+    },
+    {
+      "skin": "Skull's Eye",
+      "weapon": "Nagant M1895 Deadeye",
+      "display_name": "Nagant M1895 Deadeye (Skull's Eye skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Nagant_M1895/Deadeye"
+    },
+    {
+      "skin": "Skull's Eye",
+      "weapon": "Nagant M1895 Precision",
+      "display_name": "Nagant M1895 Precision (Skull's Eye skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Nagant_M1895/Precision"
+    },
+    {
+      "skin": "Skull's Eye: Deadeye",
+      "weapon": "Nagant M1895 Deadeye",
+      "display_name": "Nagant M1895 Deadeye (Skull's Eye: Deadeye skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Nagant_M1895/Deadeye"
+    },
+    {
+      "skin": "Skull's Eye: Precision",
+      "weapon": "Nagant M1895 Precision",
+      "display_name": "Nagant M1895 Precision (Skull's Eye: Precision skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Nagant_M1895/Precision"
+    },
+    {
+      "skin": "Sleigh Ride",
+      "weapon": "Ranger 73",
+      "display_name": "Ranger 73 (Sleigh Ride skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73"
+    },
+    {
+      "skin": "Sleigh Ride",
+      "weapon": "Ranger 73 Aperture",
+      "display_name": "Ranger 73 Aperture (Sleigh Ride skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Aperture"
+    },
+    {
+      "skin": "Sleigh Ride",
+      "weapon": "Ranger 73 Swift",
+      "display_name": "Ranger 73 Swift (Sleigh Ride skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Swift"
+    },
+    {
+      "skin": "Sleigh Ride",
+      "weapon": "Ranger 73 Talon",
+      "display_name": "Ranger 73 Talon (Sleigh Ride skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Talon"
+    },
+    {
+      "skin": "Sleigh Ride: Aperture",
+      "weapon": "Ranger 73 Aperture",
+      "display_name": "Ranger 73 Aperture (Sleigh Ride: Aperture skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Aperture"
+    },
+    {
+      "skin": "Sleigh Ride: Ranger 73",
+      "weapon": "Ranger 73",
+      "display_name": "Ranger 73 (Sleigh Ride: Ranger 73 skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73"
+    },
+    {
+      "skin": "Sleigh Ride: Talon",
+      "weapon": "Ranger 73 Talon",
+      "display_name": "Ranger 73 Talon (Sleigh Ride: Talon skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Talon"
+    },
+    {
+      "skin": "Slither",
+      "weapon": "Ranger 73 Swift",
+      "display_name": "Ranger 73 Swift (Slither skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Swift"
+    },
+    {
+      "skin": "Smolder",
+      "weapon": "Centennial Trauma",
+      "display_name": "Centennial Trauma (Smolder skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Trauma"
+    },
+    {
+      "skin": "Snake Eyes",
+      "weapon": "Uppercut",
+      "display_name": "Uppercut (Snake Eyes skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut"
+    },
+    {
+      "skin": "Snake Seer",
+      "weapon": "Crossbow",
+      "display_name": "Crossbow (Snake Seer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Crossbow"
+    },
+    {
+      "skin": "Snakeshot",
+      "weapon": "Sparks Pistol",
+      "display_name": "Sparks Pistol (Snakeshot skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks/Pistol"
+    },
+    {
+      "skin": "Sniper's Gift",
+      "weapon": "Officer Carbine Deadeye",
+      "display_name": "Officer Carbine Deadeye (Sniper's Gift skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Officer/Carbine_Deadeye"
+    },
+    {
+      "skin": "Soldier's Brother",
+      "weapon": "Drilling",
+      "display_name": "Drilling (Soldier's Brother skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Drilling"
+    },
+    {
+      "skin": "Solzer's Silver",
+      "weapon": "Bornheim No. 3 Extended",
+      "display_name": "Bornheim No. 3 Extended (Solzer's Silver skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bornheim_No._3/Extended"
+    },
+    {
+      "skin": "Somber Gale",
+      "weapon": "Scottfield Precision",
+      "display_name": "Scottfield Precision (Somber Gale skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield/Precision"
+    },
+    {
+      "skin": "Somnus",
+      "weapon": "Slate",
+      "display_name": "Slate (Somnus skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Slate"
+    },
+    {
+      "skin": "Soothsayer",
+      "weapon": "Ranger 73",
+      "display_name": "Ranger 73 (Soothsayer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73"
+    },
+    {
+      "skin": "Soothsayer",
+      "weapon": "Ranger 73 Aperture",
+      "display_name": "Ranger 73 Aperture (Soothsayer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Aperture"
+    },
+    {
+      "skin": "Soothsayer",
+      "weapon": "Ranger 73 Swift",
+      "display_name": "Ranger 73 Swift (Soothsayer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Swift"
+    },
+    {
+      "skin": "Soothsayer",
+      "weapon": "Ranger 73 Talon",
+      "display_name": "Ranger 73 Talon (Soothsayer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Talon"
+    },
+    {
+      "skin": "Soothsayer: Aperture",
+      "weapon": "Ranger 73 Aperture",
+      "display_name": "Ranger 73 Aperture (Soothsayer: Aperture skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Aperture"
+    },
+    {
+      "skin": "Soothsayer: Talon",
+      "weapon": "Ranger 73 Talon",
+      "display_name": "Ranger 73 Talon (Soothsayer: Talon skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Talon"
+    },
+    {
+      "skin": "Southern Belle",
+      "weapon": "Romero 77",
+      "display_name": "Romero 77 (Southern Belle skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77"
+    },
+    {
+      "skin": "Spare Dime",
+      "weapon": "Nagant M1895 Silencer",
+      "display_name": "Nagant M1895 Silencer (Spare Dime skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Nagant_M1895/Silencer"
+    },
+    {
+      "skin": "Spirit Caller",
+      "weapon": "1865 Carbine",
+      "display_name": "1865 Carbine (Spirit Caller skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/1865_Carbine"
+    },
+    {
+      "skin": "Spirit Caller",
+      "weapon": "1865 Carbine Aperture",
+      "display_name": "1865 Carbine Aperture (Spirit Caller skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/1865_Carbine/Aperture"
+    },
+    {
+      "skin": "Spirit Caller",
+      "weapon": "1865 Carbine Silencer",
+      "display_name": "1865 Carbine Silencer (Spirit Caller skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/1865_Carbine/Silencer"
+    },
+    {
+      "skin": "Spirit Caller: Aperture",
+      "weapon": "1865 Carbine Aperture",
+      "display_name": "1865 Carbine Aperture (Spirit Caller: Aperture skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/1865_Carbine/Aperture"
+    },
+    {
+      "skin": "Spirit Caller: Silencer",
+      "weapon": "1865 Carbine Silencer",
+      "display_name": "1865 Carbine Silencer (Spirit Caller: Silencer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/1865_Carbine/Silencer"
+    },
+    {
+      "skin": "Spite",
+      "weapon": "Conversion",
+      "display_name": "Conversion (Spite skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Conversion"
+    },
+    {
+      "skin": "Splintered Jaw",
+      "weapon": "Uppercut",
+      "display_name": "Uppercut (Splintered Jaw skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut"
+    },
+    {
+      "skin": "Splintered Jaw",
+      "weapon": "Uppercut Deadeye",
+      "display_name": "Uppercut Deadeye (Splintered Jaw skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut/Deadeye"
+    },
+    {
+      "skin": "Splintered Jaw",
+      "weapon": "Uppercut Precision",
+      "display_name": "Uppercut Precision (Splintered Jaw skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut/Precision"
+    },
+    {
+      "skin": "Splintered Jaw: Deadeye",
+      "weapon": "Uppercut Deadeye",
+      "display_name": "Uppercut Deadeye (Splintered Jaw: Deadeye skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut/Deadeye"
+    },
+    {
+      "skin": "Splintered Jaw: Precision",
+      "weapon": "Uppercut Precision",
+      "display_name": "Uppercut Precision (Splintered Jaw: Precision skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut/Precision"
+    },
+    {
+      "skin": "Spring Rain",
+      "weapon": "Chu Ko Nu",
+      "display_name": "Chu Ko Nu (Spring Rain skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Chu_Ko_Nu"
+    },
+    {
+      "skin": "Spring's End",
+      "weapon": "Springfield 1866 Shorty",
+      "display_name": "Springfield 1866 Shorty (Spring's End skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Springfield_1866/Shorty"
+    },
+    {
+      "skin": "Stalker's Snarl",
+      "weapon": "Hunting Bow",
+      "display_name": "Hunting Bow (Stalker's Snarl skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Hunting_Bow"
+    },
+    {
+      "skin": "Standard Issue",
+      "weapon": "Specter 1882",
+      "display_name": "Specter 1882 (Standard Issue skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Specter_1882"
+    },
+    {
+      "skin": "Steady Ember",
+      "weapon": "Uppercut Deadeye",
+      "display_name": "Uppercut Deadeye (Steady Ember skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut/Deadeye"
+    },
+    {
+      "skin": "Steel Knot",
+      "weapon": "Vetterli 71 Cyclone",
+      "display_name": "Vetterli 71 Cyclone (Steel Knot skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Cyclone"
+    },
+    {
+      "skin": "Steel Sprung",
+      "weapon": "Hand Crossbow",
+      "display_name": "Hand Crossbow (Steel Sprung skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Hand_Crossbow"
+    },
+    {
+      "skin": "Steelroot",
+      "weapon": "Nagant M1895",
+      "display_name": "Nagant M1895 (Steelroot skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Nagant_M1895"
+    },
+    {
+      "skin": "Storm Chaser",
+      "weapon": "Terminus Shorty",
+      "display_name": "Terminus Shorty (Storm Chaser skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Terminus/Shorty"
+    },
+    {
+      "skin": "Strike a Balance",
+      "weapon": "Scottfield",
+      "display_name": "Scottfield (Strike a Balance skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield"
+    },
+    {
+      "skin": "Sucker Punch",
+      "weapon": "Rival 78 Mace",
+      "display_name": "Rival 78 Mace (Sucker Punch skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Rival_78/Mace"
+    },
+    {
+      "skin": "Sui's Bane",
+      "weapon": "Berthier 1892",
+      "display_name": "Berthier 1892 (Sui's Bane skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Berthier_1892"
+    },
+    {
+      "skin": "Sullied & Sworn",
+      "weapon": "LeMat Carbine Marksman",
+      "display_name": "LeMat Carbine Marksman (Sullied & Sworn skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/LeMat/Carbine_Marksman"
+    },
+    {
+      "skin": "Survivor's Grip",
+      "weapon": "1865 Carbine",
+      "display_name": "1865 Carbine (Survivor's Grip skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/1865_Carbine"
+    },
+    {
+      "skin": "Swallow's Tail",
+      "weapon": "Centennial",
+      "display_name": "Centennial (Swallow's Tail skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial"
+    },
+    {
+      "skin": "Swamp Dredge",
+      "weapon": "Romero 77 Alamo",
+      "display_name": "Romero 77 Alamo (Swamp Dredge skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Alamo"
+    },
+    {
+      "skin": "Swamp Song",
+      "weapon": "Vetterli 71 Marksman",
+      "display_name": "Vetterli 71 Marksman (Swamp Song skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Marksman"
+    },
+    {
+      "skin": "Swan Song",
+      "weapon": "Lebel 1886",
+      "display_name": "Lebel 1886 (Swan Song skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Lebel_1886"
+    },
+    {
+      "skin": "Swine Shrike",
+      "weapon": "Springfield 1866 Bayonet",
+      "display_name": "Springfield 1866 Bayonet (Swine Shrike skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Springfield_1866/Bayonet"
+    },
+    {
+      "skin": "Tainted Resin",
+      "weapon": "New Army",
+      "display_name": "New Army (Tainted Resin skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/New_Army"
+    },
+    {
+      "skin": "Talisman",
+      "weapon": "Krag",
+      "display_name": "Krag (Talisman skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Krag"
+    },
+    {
+      "skin": "Tarnished Record",
+      "weapon": "Centennial",
+      "display_name": "Centennial (Tarnished Record skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial"
+    },
+    {
+      "skin": "Tartufai",
+      "weapon": "Specter 1882 Bayonet",
+      "display_name": "Specter 1882 Bayonet (Tartufai skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Specter_1882/Bayonet"
+    },
+    {
+      "skin": "Taste of Salvation",
+      "weapon": "Uppercut Precision",
+      "display_name": "Uppercut Precision (Taste of Salvation skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut/Precision"
+    },
+    {
+      "skin": "Tempered Rage",
+      "weapon": "Bomb Launcher",
+      "display_name": "Bomb Launcher (Tempered Rage skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bomb_Launcher"
+    },
+    {
+      "skin": "Ten Pace",
+      "weapon": "Scottfield",
+      "display_name": "Scottfield (Ten Pace skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield"
+    },
+    {
+      "skin": "Ten Paces",
+      "weapon": "Scottfield",
+      "display_name": "Scottfield (Ten Paces skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield"
+    },
+    {
+      "skin": "Tender is the Night",
+      "weapon": "Railroad Hammer",
+      "display_name": "Railroad Hammer (Tender is the Night skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Railroad_Hammer"
+    },
+    {
+      "skin": "The Accomplice",
+      "weapon": "Ranger 73 Aperture",
+      "display_name": "Ranger 73 Aperture (The Accomplice skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Aperture"
+    },
+    {
+      "skin": "The Augur",
+      "weapon": "Lebel 1886 Talon",
+      "display_name": "Lebel 1886 Talon (The Augur skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Lebel_1886/Talon"
+    },
+    {
+      "skin": "The Bark",
+      "weapon": "Romero 77 Hatchet",
+      "display_name": "Romero 77 Hatchet (The Bark skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Hatchet"
+    },
+    {
+      "skin": "The Benefactor",
+      "weapon": "Conversion Chain Pistol",
+      "display_name": "Conversion Chain Pistol (The Benefactor skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Conversion/Chain_Pistol"
+    },
+    {
+      "skin": "The Bite",
+      "weapon": "Crossbow",
+      "display_name": "Crossbow (The Bite skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Crossbow"
+    },
+    {
+      "skin": "The Blindside",
+      "weapon": "Scottfield Spitfire",
+      "display_name": "Scottfield Spitfire (The Blindside skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Scottfield/Spitfire"
+    },
+    {
+      "skin": "The Breefield",
+      "weapon": "Springfield 1866",
+      "display_name": "Springfield 1866 (The Breefield skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Springfield_1866"
+    },
+    {
+      "skin": "The Centenary",
+      "weapon": "Mosin-Nagant",
+      "display_name": "Mosin-Nagant (The Centenary skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant"
+    },
+    {
+      "skin": "The Collins",
+      "weapon": "Specter 1882 Shorty",
+      "display_name": "Specter 1882 Shorty (The Collins skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Specter_1882/Shorty"
+    },
+    {
+      "skin": "The Cordwainer",
+      "weapon": "Officer Carbine",
+      "display_name": "Officer Carbine (The Cordwainer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Officer/Carbine"
+    },
+    {
+      "skin": "The Council's Verdict",
+      "weapon": "Sparks Sniper",
+      "display_name": "Sparks Sniper (The Council's Verdict skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks/Sniper"
+    },
+    {
+      "skin": "The Duke's Contract",
+      "weapon": "Vandal 73C",
+      "display_name": "Vandal 73C (The Duke's Contract skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vandal_73C"
+    },
+    {
+      "skin": "The Elephant's Promise",
+      "weapon": "Frontier 73C",
+      "display_name": "Frontier 73C (The Elephant's Promise skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Frontier_73C"
+    },
+    {
+      "skin": "The Elephant's Promise",
+      "weapon": "Frontier 73C Marksman",
+      "display_name": "Frontier 73C Marksman (The Elephant's Promise skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Frontier_73C/Marksman"
+    },
+    {
+      "skin": "The Elephant's Promise",
+      "weapon": "Frontier 73C Silencer",
+      "display_name": "Frontier 73C Silencer (The Elephant's Promise skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Frontier_73C/Silencer"
+    },
+    {
+      "skin": "The Elephant's Promise: Marksman",
+      "weapon": "Frontier 73C Marksman",
+      "display_name": "Frontier 73C Marksman (The Elephant's Promise: Marksman skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Frontier_73C/Marksman"
+    },
+    {
+      "skin": "The Elephant's Promise: Silencer",
+      "weapon": "Frontier 73C Silencer",
+      "display_name": "Frontier 73C Silencer (The Elephant's Promise: Silencer skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Frontier_73C/Silencer"
+    },
+    {
+      "skin": "The Eleventh Hour",
+      "weapon": "Specter 1882",
+      "display_name": "Specter 1882 (The Eleventh Hour skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Specter_1882"
+    },
+    {
+      "skin": "The Eschaton",
+      "weapon": "Mosin-Nagant",
+      "display_name": "Mosin-Nagant (The Eschaton skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant"
+    },
+    {
+      "skin": "The Executioner",
+      "weapon": "Combat Axe",
+      "display_name": "Combat Axe (The Executioner skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Combat_Axe"
+    },
+    {
+      "skin": "The Fifth Tale",
+      "weapon": "Mosin Obrez",
+      "display_name": "Mosin Obrez (The Fifth Tale skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin_Obrez"
+    },
+    {
+      "skin": "The Forewarning",
+      "weapon": "Vetterli 71 Deadeye",
+      "display_name": "Vetterli 71 Deadeye (The Forewarning skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Deadeye"
+    },
+    {
+      "skin": "The Gallus Arm",
+      "weapon": "Lebel 1886",
+      "display_name": "Lebel 1886 (The Gallus Arm skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Lebel_1886"
+    },
+    {
+      "skin": "The Gillnet",
+      "weapon": "Sparks Pistol",
+      "display_name": "Sparks Pistol (The Gillnet skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks/Pistol"
+    },
+    {
+      "skin": "The Harbinger",
+      "weapon": "Pax",
+      "display_name": "Pax (The Harbinger skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Pax"
+    },
+    {
+      "skin": "The Houqua",
+      "weapon": "Romero 77 Talon",
+      "display_name": "Romero 77 Talon (The Houqua skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Romero_77/Talon"
+    },
+    {
+      "skin": "The Marwood",
+      "weapon": "Rival 78",
+      "display_name": "Rival 78 (The Marwood skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Rival_78"
+    },
+    {
+      "skin": "The Motherlode",
+      "weapon": "Centennial",
+      "display_name": "Centennial (The Motherlode skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial"
+    },
+    {
+      "skin": "The Mountain King",
+      "weapon": "Ranger 73 Swift",
+      "display_name": "Ranger 73 Swift (The Mountain King skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Swift"
+    },
+    {
+      "skin": "The Noose",
+      "weapon": "Vetterli 71",
+      "display_name": "Vetterli 71 (The Noose skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71"
+    },
+    {
+      "skin": "The Pearl",
+      "weapon": "Conversion",
+      "display_name": "Conversion (The Pearl skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Conversion"
+    },
+    {
+      "skin": "The Reckoning",
+      "weapon": "Sparks",
+      "display_name": "Sparks (The Reckoning skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks"
+    },
+    {
+      "skin": "The Redmartin",
+      "weapon": "Ranger 73",
+      "display_name": "Ranger 73 (The Redmartin skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73"
+    },
+    {
+      "skin": "The Redmartin",
+      "weapon": "Ranger 73 Aperture",
+      "display_name": "Ranger 73 Aperture (The Redmartin skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Aperture"
+    },
+    {
+      "skin": "The Redmartin",
+      "weapon": "Ranger 73 Swift",
+      "display_name": "Ranger 73 Swift (The Redmartin skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Swift"
+    },
+    {
+      "skin": "The Redmartin",
+      "weapon": "Ranger 73 Talon",
+      "display_name": "Ranger 73 Talon (The Redmartin skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Talon"
+    },
+    {
+      "skin": "The Redmartin: Aperture",
+      "weapon": "Ranger 73 Aperture",
+      "display_name": "Ranger 73 Aperture (The Redmartin: Aperture skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Aperture"
+    },
+    {
+      "skin": "The Redmartin: Swift",
+      "weapon": "Ranger 73 Swift",
+      "display_name": "Ranger 73 Swift (The Redmartin: Swift skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Swift"
+    },
+    {
+      "skin": "The Redmartin: Talon",
+      "weapon": "Ranger 73 Talon",
+      "display_name": "Ranger 73 Talon (The Redmartin: Talon skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Ranger_73/Talon"
+    },
+    {
+      "skin": "The Scourge",
+      "weapon": "Officer Brawler",
+      "display_name": "Officer Brawler (The Scourge skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Officer/Brawler"
+    },
+    {
+      "skin": "The Seventh Sun",
+      "weapon": "Dolch 96 Precision",
+      "display_name": "Dolch 96 Precision (The Seventh Sun skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Dolch_96/Precision"
+    },
+    {
+      "skin": "The Shrike",
+      "weapon": "Bomb Lance",
+      "display_name": "Bomb Lance (The Shrike skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bomb_Lance"
+    },
+    {
+      "skin": "The Sparchie",
+      "weapon": "Sparks Sniper",
+      "display_name": "Sparks Sniper (The Sparchie skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks/Sniper"
+    },
+    {
+      "skin": "The Swamp Peach",
+      "weapon": "Rival 78 Shorty",
+      "display_name": "Rival 78 Shorty (The Swamp Peach skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Rival_78/Shorty"
+    },
+    {
+      "skin": "The Vanguard",
+      "weapon": "Pax",
+      "display_name": "Pax (The Vanguard skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Pax"
+    },
+    {
+      "skin": "Third Strike",
+      "weapon": "Slate",
+      "display_name": "Slate (Third Strike skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Slate"
+    },
+    {
+      "skin": "Thunderstroke",
+      "weapon": "Rival 78",
+      "display_name": "Rival 78 (Thunderstroke skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Rival_78"
+    },
+    {
+      "skin": "Tomb Reign",
+      "weapon": "Drilling",
+      "display_name": "Drilling (Tomb Reign skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Drilling"
+    },
+    {
+      "skin": "Tooth and Claw",
+      "weapon": "Martini-Henry Riposte",
+      "display_name": "Martini-Henry Riposte (Tooth and Claw skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Martini-Henry/Riposte"
+    },
+    {
+      "skin": "Tooth to Tail",
+      "weapon": "Bomb Lance",
+      "display_name": "Bomb Lance (Tooth to Tail skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bomb_Lance"
+    },
+    {
+      "skin": "Torment's Trio",
+      "weapon": "Drilling Shorty",
+      "display_name": "Drilling Shorty (Torment's Trio skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Drilling/Shorty"
+    },
+    {
+      "skin": "Trail Beater",
+      "weapon": "Centennial",
+      "display_name": "Centennial (Trail Beater skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial"
+    },
+    {
+      "skin": "Trail Beater",
+      "weapon": "Centennial Sniper",
+      "display_name": "Centennial Sniper (Trail Beater skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Sniper"
+    },
+    {
+      "skin": "Trail Beater",
+      "weapon": "Centennial Trauma",
+      "display_name": "Centennial Trauma (Trail Beater skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Trauma"
+    },
+    {
+      "skin": "Trail Beater: Sniper",
+      "weapon": "Centennial Sniper",
+      "display_name": "Centennial Sniper (Trail Beater: Sniper skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Sniper"
+    },
+    {
+      "skin": "Trail Beater: Trauma",
+      "weapon": "Centennial Trauma",
+      "display_name": "Centennial Trauma (Trail Beater: Trauma skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Centennial/Trauma"
+    },
+    {
+      "skin": "Trail Marker",
+      "weapon": "Uppercut Precision",
+      "display_name": "Uppercut Precision (Trail Marker skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Uppercut/Precision"
+    },
+    {
+      "skin": "Trailstalker",
+      "weapon": "Nitro Express",
+      "display_name": "Nitro Express (Trailstalker skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Nitro_Express"
+    },
+    {
+      "skin": "Tree Feeder",
+      "weapon": "1865 Carbine",
+      "display_name": "1865 Carbine (Tree Feeder skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/1865_Carbine"
+    },
+    {
+      "skin": "Trident's Teeth",
+      "weapon": "Sparks",
+      "display_name": "Sparks (Trident's Teeth skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Sparks"
+    },
+    {
+      "skin": "True Exile",
+      "weapon": "LeMat Carbine",
+      "display_name": "LeMat Carbine (True Exile skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/LeMat/Carbine"
+    },
+    {
+      "skin": "True Exile",
+      "weapon": "LeMat Carbine Marksman",
+      "display_name": "LeMat Carbine Marksman (True Exile skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/LeMat/Carbine_Marksman"
+    },
+    {
+      "skin": "True Exile: Carbine",
+      "weapon": "LeMat Carbine",
+      "display_name": "LeMat Carbine (True Exile: Carbine skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/LeMat/Carbine"
+    },
+    {
+      "skin": "Undertaker's Ally",
+      "weapon": "Officer",
+      "display_name": "Officer (Undertaker's Ally skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Officer"
+    },
+    {
+      "skin": "Undertaker's Song",
+      "weapon": "Vetterli 71 Silencer",
+      "display_name": "Vetterli 71 Silencer (Undertaker's Song skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Silencer"
+    },
+    {
+      "skin": "Unkempt",
+      "weapon": "LeMat",
+      "display_name": "LeMat (Unkempt skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/LeMat"
+    },
+    {
+      "skin": "Utsusemi",
+      "weapon": "Katana",
+      "display_name": "Katana (Utsusemi skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Katana"
+    },
+    {
+      "skin": "Vagrant",
+      "weapon": "Frontier 73C Silencer",
+      "display_name": "Frontier 73C Silencer (Vagrant skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Frontier_73C/Silencer"
+    },
+    {
+      "skin": "Veil Slasher",
+      "weapon": "Dolch 96 Claw",
+      "display_name": "Dolch 96 Claw (Veil Slasher skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Dolch_96/Claw"
+    },
+    {
+      "skin": "Vertebrae",
+      "weapon": "Marathon",
+      "display_name": "Marathon (Vertebrae skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Marathon"
+    },
+    {
+      "skin": "Vertebrae",
+      "weapon": "Marathon Swift",
+      "display_name": "Marathon Swift (Vertebrae skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Marathon/Swift"
+    },
+    {
+      "skin": "Vertebrae: Swift",
+      "weapon": "Marathon Swift",
+      "display_name": "Marathon Swift (Vertebrae: Swift skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Marathon/Swift"
+    },
+    {
+      "skin": "Vortex",
+      "weapon": "New Army Swift",
+      "display_name": "New Army Swift (Vortex skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/New_Army/Swift"
+    },
+    {
+      "skin": "Vulture's Wing",
+      "weapon": "Hunting Bow",
+      "display_name": "Hunting Bow (Vulture's Wing skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Hunting_Bow"
+    },
+    {
+      "skin": "Wayfinder",
+      "weapon": "Hunting Bow",
+      "display_name": "Hunting Bow (Wayfinder skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Hunting_Bow"
+    },
+    {
+      "skin": "Weeping Marigold",
+      "weapon": "Vetterli 71 Marksman",
+      "display_name": "Vetterli 71 Marksman (Weeping Marigold skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71/Marksman"
+    },
+    {
+      "skin": "Whisper",
+      "weapon": "Bornheim No. 3 Silencer",
+      "display_name": "Bornheim No. 3 Silencer (Whisper skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Bornheim_No._3/Silencer"
+    },
+    {
+      "skin": "Widow's Bounty",
+      "weapon": "Officer",
+      "display_name": "Officer (Widow's Bounty skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Officer"
+    },
+    {
+      "skin": "Widower",
+      "weapon": "Conversion Chain Pistol",
+      "display_name": "Conversion Chain Pistol (Widower skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Conversion/Chain_Pistol"
+    },
+    {
+      "skin": "Wing's Wake",
+      "weapon": "Slate Riposte",
+      "display_name": "Slate Riposte (Wing's Wake skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Slate/Riposte"
+    },
+    {
+      "skin": "Winter Rose",
+      "weapon": "Vetterli 71",
+      "display_name": "Vetterli 71 (Winter Rose skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Vetterli_71"
+    },
+    {
+      "skin": "Witch Trial",
+      "weapon": "Berthier 1892 Deadeye",
+      "display_name": "Berthier 1892 Deadeye (Witch Trial skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Berthier_1892/Deadeye"
+    },
+    {
+      "skin": "Wolf's Mouth",
+      "weapon": "Mosin-Nagant Avtomat",
+      "display_name": "Mosin-Nagant Avtomat (Wolf's Mouth skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant/Avtomat"
+    },
+    {
+      "skin": "Wolfsbane",
+      "weapon": "Lebel 1886 Aperture",
+      "display_name": "Lebel 1886 Aperture (Wolfsbane skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Lebel_1886/Aperture"
+    },
+    {
+      "skin": "Wormwood",
+      "weapon": "Mosin-Nagant",
+      "display_name": "Mosin-Nagant (Wormwood skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mosin-Nagant"
+    },
+    {
+      "skin": "Wraith's Hand",
+      "weapon": "Springfield 1866 Striker",
+      "display_name": "Springfield 1866 Striker (Wraith's Hand skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Springfield_1866/Striker"
+    },
+    {
+      "skin": "Yawning Grave",
+      "weapon": "Mako 1895",
+      "display_name": "Mako 1895 (Yawning Grave skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Mako_1895"
+    },
+    {
+      "skin": "Zorngeist",
+      "weapon": "Lebel 1886 Marksman",
+      "display_name": "Lebel 1886 Marksman (Zorngeist skin)",
+      "source_url": "https://huntshowdown.wiki.gg/wiki/Weapons/Lebel_1886/Marksman"
+    }
+  ]
+}

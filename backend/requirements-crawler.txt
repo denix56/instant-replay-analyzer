@@ -1,0 +1,6 @@
+httpx>=0.28,<1.0
+numpy>=2.2,<3.0
+pydantic>=2.10,<3.0
+pydantic-settings>=2.7,<3.0
+selenium>=4.27,<5.0
+Pillow>=11.0,<12.0
