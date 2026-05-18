@@ -197,3 +197,9 @@ The strict tests set `ALLOW_MOCK_MODELS=false` and use local Qdrant storage.
 - Slow CPU indexing: use `MODEL_TIER=default` and `INDEXING_PROFILE=fast`.
 - Missing models: keep `AUTO_DOWNLOAD_MODELS=true` or run `uv run python -m app download-models --tier default`.
 - Media extraction fails: install system FFmpeg or rely on the bundled `imageio-ffmpeg` fallback.
+
+## License
+
+Copyright 2026 Denys Senkin.
+
+Licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE).
